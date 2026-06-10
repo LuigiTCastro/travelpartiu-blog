@@ -1,6 +1,8 @@
 import { getPostBySlug, getAllSlugs, getRelatedPosts } from "@/lib/posts";
+import { getAfiliadosPorCategoria } from "@/lib/afiliados";
 import { notFound } from "next/navigation";
 import AdSlot from "@/components/AdSlot";
+import AfiliadoCard from "@/components/AfiliadoCard";
 import TemplatesCTA from "@/components/TemplatesCTA";
 import Breadcrumb from "@/components/Breadcrumb";
 import TableOfContents from "@/components/TableOfContents";
@@ -47,6 +49,7 @@ export default async function PostPage({ params }) {
   if (!post) notFound();
 
   const related = getRelatedPosts(post.slug, post.categoria);
+  const afiliados = getAfiliadosPorCategoria(post.categoria);
 
   const formattedDate = post.data
     ? new Date(post.data + "T12:00:00").toLocaleDateString("pt-BR", {
@@ -142,10 +145,22 @@ export default async function PostPage({ params }) {
               dangerouslySetInnerHTML={{ __html: post.contentHtml }}
             />
 
+            {/* Cards de afiliados — aparecem após o conteúdo, antes do CTA */}
+            {afiliados.length > 0 && (
+              <div className="mt-10 pt-8 border-t border-border">
+                <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-4">
+                  Links uteis para sua viagem
+                </p>
+                {afiliados.map((afiliado) => (
+                  <AfiliadoCard key={afiliado.id} {...afiliado} />
+                ))}
+              </div>
+            )}
+
             {/* Newsletter */}
             <NewsletterInline />
 
-            {/* Single ad before CTA */}
+            {/* Ad antes do CTA */}
             <AdSlot position="footer" />
 
             {/* Templates CTA */}

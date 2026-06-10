@@ -1,10 +1,17 @@
-export default function AfiliadoCard({ titulo, descricao, link, badge, cta }) {
+// AfiliadoCard — card de afiliado/parceiro
+// Usar rel="sponsored" é obrigatório por lei (FTC/Conar) em links de afiliado
+export default function AfiliadoCard({ titulo, descricao, link, badge, cta, icon }) {
   return (
-    <div className="rounded-2xl bg-bg-warm p-6 my-8">
+    <div className="rounded-2xl bg-bg-accent border border-border p-6 my-8">
       <div className="flex items-start gap-4">
+        {icon && (
+          <div className="w-10 h-10 rounded-xl bg-white border border-border flex items-center justify-center shrink-0 text-xl">
+            {icon}
+          </div>
+        )}
         <div className="flex-1">
           {badge && (
-            <span className="inline-block text-[0.6875rem] font-semibold text-text-muted uppercase tracking-wider mb-2">
+            <span className="inline-block text-[0.6875rem] font-semibold text-primary uppercase tracking-wider mb-2">
               {badge}
             </span>
           )}
