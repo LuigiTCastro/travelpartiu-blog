@@ -324,6 +324,17 @@ body {
   background: var(--color-bg-accent);
 }
 
+/* ===== SCROLLBAR HIDE (scroll horizontal nos cards) ===== */
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
 /* ===== BUTTON STYLES ===== */
 
 .btn-primary {

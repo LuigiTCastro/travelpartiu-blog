@@ -5,7 +5,7 @@ descricao: "De praias paradisíacas a cidades históricas, selecionamos os melho
 categoria: "Dicas de viagem"
 destino: "Brasil"
 data: "2026-06-05"
-imagem_capa: "https://images.unsplash.com/photo-1516939884455-1445c8652f83?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1497414826197-4166f61a8e14?w=1200&q=80"
 tempo_leitura: "8 min"
 autor: "Equipe TravelPartiu"
 ---
