@@ -4,8 +4,7 @@ import PostCard from "@/components/PostCard";
 
 export default function Home() {
   const destaques = getPostsDestaque(6);
-  const destaquesSlugs = new Set(destaques.map((p) => p.slug));
-  const recentes = getAllPosts().filter((p) => !destaquesSlugs.has(p.slug)).slice(0, 6);
+  const recentes = getAllPosts().slice(0, 6);
   const categories = getCategories();
 
   return (
