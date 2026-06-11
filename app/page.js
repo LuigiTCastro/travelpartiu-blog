@@ -1,12 +1,12 @@
 import Link from "next/link";
-import { getAllPosts, getCategories } from "@/lib/posts";
+import { getAllPosts, getPostsDestaque, getCategories } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
 export default function Home() {
-  const posts = getAllPosts();
+  const destaques = getPostsDestaque(6);
+  const destaquesSlugs = new Set(destaques.map((p) => p.slug));
+  const recentes = getAllPosts().filter((p) => !destaquesSlugs.has(p.slug)).slice(0, 6);
   const categories = getCategories();
-  const featured = posts.slice(0, 4);
-  const recent = posts.slice(0, 6);
 
   return (
     <>
@@ -36,8 +36,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured — horizontal scroll com peek */}
-      {featured.length > 0 && (
+      {/* Em Destaque — horizontal scroll com peek */}
+      {destaques.length > 0 && (
         <section className="py-14 md:py-18">
           <div className="max-w-[1200px] mx-auto px-5 mb-7">
             <div className="flex items-center justify-between">
@@ -60,7 +60,7 @@ export default function Home() {
               className="flex gap-5 overflow-x-auto pb-4 scrollbar-hide scroll-smooth snap-x snap-mandatory"
               style={{ paddingLeft: "calc((100vw - 1200px) / 2 + 20px)", paddingRight: "60px" }}
             >
-              {featured.map((post) => (
+              {destaques.map((post) => (
                 <Link
                   key={post.slug}
                   href={`/blog/${post.slug}`}
@@ -120,8 +120,8 @@ export default function Home() {
         </section>
       )}
 
-      {/* Recent posts - alternate bg */}
-      {recent.length > 0 && (
+      {/* Posts Recentes — apenas os que NÃO estão em destaque */}
+      {recentes.length > 0 && (
         <section className="section-accent">
           <div className="max-w-[1200px] mx-auto px-5 py-14 md:py-18">
             <div className="flex items-center justify-between mb-8">
@@ -137,7 +137,7 @@ export default function Home() {
               </Link>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {recent.map((post) => (
+              {recentes.map((post) => (
                 <PostCard key={post.slug} post={post} />
               ))}
             </div>

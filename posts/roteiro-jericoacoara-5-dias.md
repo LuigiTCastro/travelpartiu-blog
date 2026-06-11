@@ -8,6 +8,7 @@ data: "2026-06-04"
 imagem_capa: "https://images.unsplash.com/photo-1584720385649-1a18f5ad99c9?w=1200&q=80"
 tempo_leitura: "10 min"
 autor: "Equipe TravelPartiu"
+destaque: true
 ---
 
 Jericoacoara é um daqueles destinos que parece bom demais pra ser verdade, mas é real. A vila no litoral oeste do Ceará combina praias de água cristalina, dunas impressionantes e um pôr do sol que virou atração turística por conta própria.

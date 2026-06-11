@@ -8,6 +8,7 @@ data: "2026-06-05"
 imagem_capa: "https://images.unsplash.com/photo-1497414826197-4166f61a8e14?w=1200&q=80"
 tempo_leitura: "8 min"
 autor: "Equipe TravelPartiu"
+destaque: true
 ---
 
 Uma viagem no Dia dos Namorados tem um peso diferente. Não precisa ser cara nem elaborada, mas precisa ser pensada para dois. O destino certo, no momento certo, com a pessoa certa, cria uma memória que dura muito mais do que qualquer presente embrulhado.
