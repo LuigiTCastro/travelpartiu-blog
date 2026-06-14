@@ -43,15 +43,13 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
         */}
-        {/* Google Analytics — substituir G-XXXXXXXXXX pelo seu Measurement ID
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6ZL756F4BQ" />
         <script dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-XXXXXXXXXX');
+          gtag('config', 'G-6ZL756F4BQ');
         `}} />
-        */}
       </head>
       <body className="min-h-full flex flex-col font-sans bg-bg text-text">
         <Header />
