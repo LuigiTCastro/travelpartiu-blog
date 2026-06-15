@@ -1,35 +1,11 @@
-export default function TableOfContents({ headings }) {
+export default function TableOfContents({ headings, inline = false }) {
   if (!headings || headings.length < 3) return null;
 
   const h2s = headings.filter((h) => h.level === 2);
 
-  return (
-    <>
-      {/* Desktop: sticky sidebar */}
-      <div className="hidden lg:block">
-        <div className="sticky top-24">
-          <p className="text-[0.6875rem] font-semibold text-text-muted uppercase tracking-widest mb-4">
-            Neste artigo
-          </p>
-          <ul className="space-y-2.5">
-            {headings.map((h) => (
-              <li key={h.id}>
-                <a
-                  href={`#${h.id}`}
-                  className={`text-[0.8125rem] text-text-secondary hover:text-primary transition-colors duration-150 block leading-snug ${
-                    h.level === 3 ? "pl-4 text-text-muted" : ""
-                  }`}
-                >
-                  {h.text}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </div>
-
-      {/* Mobile + tablet: inline sempre visível */}
-      <div className="lg:hidden rounded-2xl bg-bg-warm border border-border p-5 mb-10">
+  if (inline) {
+    return (
+      <div className="rounded-2xl bg-bg-warm border border-border p-5 mb-10">
         <p className="text-xs font-semibold text-text-muted uppercase tracking-widest mb-4">
           Ache rapidamente
         </p>
@@ -47,6 +23,30 @@ export default function TableOfContents({ headings }) {
           ))}
         </ul>
       </div>
-    </>
+    );
+  }
+
+  return (
+    <div className="hidden lg:block">
+      <div className="sticky top-24">
+        <p className="text-[0.6875rem] font-semibold text-text-muted uppercase tracking-widest mb-4">
+          Neste artigo
+        </p>
+        <ul className="space-y-2.5">
+          {headings.map((h) => (
+            <li key={h.id}>
+              <a
+                href={`#${h.id}`}
+                className={`text-[0.8125rem] text-text-secondary hover:text-primary transition-colors duration-150 block leading-snug ${
+                  h.level === 3 ? "pl-4 text-text-muted" : ""
+                }`}
+              >
+                {h.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
   );
 }

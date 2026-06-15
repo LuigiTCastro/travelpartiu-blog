@@ -1,12 +1,11 @@
 import Link from "next/link";
-import { getAllPosts, getPostsDestaque, getCategories, getPostsDicas } from "@/lib/posts";
+import { getRecentPosts, getPostsDestaque, getCategories, getPostsDicas } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
 export default function Home() {
   const destaques = getPostsDestaque(6);
+  const recentes = getRecentPosts(30, 6);
   const dicas = getPostsDicas(3);
-  const excluidos = new Set([...destaques, ...dicas].map((p) => p.slug));
-  const recentes = getAllPosts().filter((p) => !excluidos.has(p.slug)).slice(0, 6);
   const categories = getCategories();
 
   return (

@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import PostCard from "@/components/PostCard";
 
 const FILTROS = [
@@ -10,6 +10,13 @@ const FILTROS = [
 
 export default function BlogFilter({ posts, categories }) {
   const [filtro, setFiltro] = useState("todos");
+
+  useEffect(() => {
+    const hash = window.location.hash.replace("#", "").toLowerCase();
+    if (["nacional", "internacional"].includes(hash)) {
+      setFiltro(hash);
+    }
+  }, []);
 
   const postsFiltrados = posts.filter((post) => {
     if (filtro === "todos") return true;

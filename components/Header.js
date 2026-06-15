@@ -5,10 +5,10 @@ import Link from "next/link";
 
 const navLinks = [
   { href: "/", label: "Inicio" },
-  { href: "/blog", label: "Roteiros" },
-  { href: "/categoria/Dicas de viagem", label: "Dicas" },
+  { href: "/blog#nacional", label: "Nacional" },
+  { href: "/blog#internacional", label: "Internacional" },
+  { href: "/blog", label: "Todos" },
   { href: "/categoria/Planejamento", label: "Planejamento" },
-  { href: "/templates", label: "Templates" },
 ];
 
 export default function Header() {

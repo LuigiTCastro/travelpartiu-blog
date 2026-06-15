@@ -131,9 +131,9 @@ export default async function PostPage({ params }) {
           </div>
         </header>
 
-        {/* Mobile TOC */}
+        {/* Inline TOC — sempre visível, todos os tamanhos */}
         <div className="max-w-[680px]">
-          <TableOfContents headings={post.headings} />
+          <TableOfContents headings={post.headings} inline />
         </div>
 
         {/* Content + sidebar */}
