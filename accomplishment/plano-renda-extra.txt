@@ -1,0 +1,143 @@
+===============================================================
+  TRAVELPARTIU — PLANO DE RENDA EXTRA
+  Versão 1.0 | Junho 2026
+===============================================================
+
+VISÃO GERAL
+-----------
+O TravelPartiu é um site/app gratuito de planejamento de viagens
+com planos pagos. Para garantir receita diversificada e escalável,
+o plano de renda extra se apoia em 3 pilares que se alimentam
+mutuamente: Produto, Conteúdo e Produtos Digitais.
+
+Fluxo geral:
+  Conteúdo (blog/redes) → tráfego
+  Tráfego → usuários do produto + clientes de produtos digitais
+  Produto freemium → assinantes pagos
+
+
+===============================================================
+PILAR 1 — PRODUTO (SITE/APP FREEMIUM)
+===============================================================
+
+Plano Gratuito (atração)
+  - Roteiros básicos
+  - Checklist de viagem
+  - Mapa simples do destino
+
+Plano Plus ~ R$ 19,90/mês (viajante casual, 2x por ano)
+  - Roteiros detalhados por dia/hora
+  - Estimativa de gastos automática
+  - Exportar roteiro em PDF
+  - Sem anúncios
+
+Plano Pro ~ R$ 39,90/mês (viajante frequente ou agência)
+  - Tudo do Plus +
+  - Múltiplos roteiros simultâneos
+  - Colaboração (compartilhar com parceiro)
+  - Integração com voos/hotéis via afiliados
+
+
+===============================================================
+PILAR 2 — CONTEÚDO
+===============================================================
+
+Blog SEO (prioridade #1 — maior potencial de renda passiva)
+  - Posts otimizados por palavra-chave (ex: "roteiro Jericoacoara")
+  - Monetização: Google AdSense + links de afiliados
+  - Afiliados prioritários: Booking, Decolar, Airbnb, seguros viagem
+  - CTA interno para produto e templates em cada post
+
+Instagram (já ativo)
+  - Reels e carrosséis com identidade visual TravelPartiu
+  - Funil para blog e produto
+  - Futuro: patrocínios de marca (mala, câmera, cartão travel)
+
+YouTube / TikTok (médio prazo)
+  - Repurpose dos Reels + versões longas
+  - Monetização pelo YouTube AdSense + patrocínio
+
+Newsletter (construir desde o início)
+  - Lista de e-mails = ativo mais valioso
+  - Cadência semanal: dica de destino + CTA para produto
+  - Monetização: patrocínio de marca por edição
+
+
+===============================================================
+PILAR 3 — PRODUTOS DIGITAIS
+===============================================================
+
+E-books (médio prazo, após blog estabelecido)
+  - "Roteiro completo: Nordeste em 15 dias" — R$ 29,90
+  - "Como viajar barato pelo Brasil" — R$ 19,90
+  - "Guia de viagem em casal" — R$ 24,90
+  - Plataforma: Hotmart ou Kiwify
+
+Templates de Roteiro (próximo passo após blog)
+  - Planilha de orçamento de viagem (Google Sheets) — R$ 9,90
+  - Template de roteiro editável (Notion) — R$ 14,90
+  - Pack completo (planilha + checklist + roteiro) — R$ 34,90
+  - Vendidos no blog + Hotmart/Kiwify
+
+Mini-curso digital (longo prazo)
+  - "Planeje sua viagem do zero em um fim de semana" — R$ 97
+  - Hospedado em Hotmart ou Kiwify
+
+
+===============================================================
+RECEITAS COMPLEMENTARES
+===============================================================
+
+Afiliados (zero esforço, encaixa em tudo)
+  - Booking.com — comissão por reserva de hotel
+  - Decolar / 123Milhas — comissão por voo
+  - Airbnb — comissão por reserva
+  - Amazon — acessórios de viagem (mala, câmera, adaptador)
+  - Seguros viagem — alta comissão por apólice
+
+Patrocínios (quando audiência crescer)
+  - Post pago no Instagram
+  - Menção na newsletter
+  - Banner exclusivo no blog
+
+
+===============================================================
+SEQUÊNCIA DE EXECUÇÃO RECOMENDADA
+===============================================================
+
+Etapa 1 — AGORA
+  [x] Blog no ar com identidade TravelPartiu
+  [x] 3 posts iniciais SEO (Jericoacoara, Gramado, planejamento)
+  [x] Slots de AdSense configurados
+  [x] Links de afiliados (Booking, Decolar) inseridos
+
+Etapa 2 — Semanas 2-4
+  [ ] 10 posts publicados (foco em destinos do Nordeste)
+  [ ] Newsletter cadastrada (Mailchimp ou Brevo — grátis)
+  [ ] Conta AdSense aprovada e anúncios ativos
+
+Etapa 3 — Mês 2
+  [ ] Primeiros templates criados e publicados no blog
+  [ ] Página /templates no blog
+  [ ] Conta Hotmart/Kiwify criada
+
+Etapa 4 — Mês 3+
+  [ ] Primeiro e-book lançado
+  [ ] YouTube com repurpose dos Reels
+  [ ] Patrocínios (a partir de 5k seguidores engajados)
+
+
+===============================================================
+FERRAMENTAS NECESSÁRIAS (todas gratuitas pra começar)
+===============================================================
+
+  Hospedagem blog:  Vercel (grátis)
+  Domínio:          blog.travelpartiu.com (subdomínio, sem custo extra)
+  AdSense:          google.com/adsense (grátis, aprovação ~2-4 semanas)
+  Afiliados:        Booking Partners, Decolar Afiliados, Amazon Associates
+  E-mail/Newsletter: Brevo ou Mailchimp (grátis até 2.000 contatos)
+  Venda digital:    Hotmart ou Kiwify (grátis, comissão sobre venda)
+
+===============================================================
+FIM DO DOCUMENTO
+===============================================================
