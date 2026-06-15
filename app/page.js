@@ -1,10 +1,12 @@
 import Link from "next/link";
-import { getAllPosts, getPostsDestaque, getCategories } from "@/lib/posts";
+import { getAllPosts, getPostsDestaque, getCategories, getPostsDicas } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
 export default function Home() {
   const destaques = getPostsDestaque(6);
-  const recentes = getAllPosts().slice(0, 6);
+  const dicas = getPostsDicas(3);
+  const excluidos = new Set([...destaques, ...dicas].map((p) => p.slug));
+  const recentes = getAllPosts().filter((p) => !excluidos.has(p.slug)).slice(0, 6);
   const categories = getCategories();
 
   return (
@@ -140,6 +142,32 @@ export default function Home() {
                 <PostCard key={post.slug} post={post} />
               ))}
             </div>
+          </div>
+        </section>
+      )}
+
+      {/* Dicas para sua Viagem */}
+      {dicas.length > 0 && (
+        <section className="max-w-[1200px] mx-auto px-5 py-14 md:py-18">
+          <div className="flex items-center justify-between mb-8">
+            <div>
+              <h2 className="text-xl font-bold text-text">Dicas para sua Viagem</h2>
+              <p className="text-sm text-text-secondary mt-1">Planejamento, seguro e como economizar mais.</p>
+            </div>
+            <Link
+              href="/categoria/Planejamento"
+              className="text-sm font-semibold text-primary hover:text-primary-hover transition-colors flex items-center gap-1"
+            >
+              Ver mais
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </Link>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {dicas.map((post) => (
+              <PostCard key={post.slug} post={post} />
+            ))}
           </div>
         </section>
       )}
