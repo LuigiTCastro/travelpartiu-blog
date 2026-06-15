@@ -5,7 +5,7 @@ descricao: "Guia completo de 5 dias por Florianópolis com as melhores praias, t
 categoria: "Roteiros"
 destino: "Florianópolis, SC"
 data: "2026-06-16"
-imagem_capa: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1559779415-bdb4e2cb3e11?w=1200&q=80"
 tempo_leitura: "10 min"
 autor: "Equipe TravelPartiu"
 pais: "Brasil"

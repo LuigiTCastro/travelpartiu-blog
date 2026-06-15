@@ -5,7 +5,7 @@ descricao: "Guia completo de 3 dias em Búzios com as melhores praias, passeios,
 categoria: "Roteiros"
 destino: "Búzios, RJ"
 data: "2026-06-22"
-imagem_capa: "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1508272961731-dc692d634a79?w=1200&q=80"
 tempo_leitura: "9 min"
 autor: "Equipe TravelPartiu"
 pais: "Brasil"
