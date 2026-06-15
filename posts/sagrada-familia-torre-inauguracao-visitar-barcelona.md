@@ -5,7 +5,7 @@ descricao: "Em junho de 2026, a Sagrada Família inaugurou sua maior torre e ent
 categoria: "Destinos"
 destino: "Barcelona, Espanha"
 data: "2026-06-15"
-imagem_capa: "https://images.unsplash.com/photo-1523531294919-4bcd7c65e216?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1728249960363-13079cc2c6f6?w=1200&q=80"
 tempo_leitura: "6 min"
 autor: "Equipe TravelPartiu"
 pais: "Espanha"
@@ -59,13 +59,13 @@ Para comer e passear: o **Bairro Gótico** tem as melhores ruas para se perder, 
 | Item | Econômico | Intermediário |
 |------|-----------|---------------|
 | Passagem aérea (ida e volta) | R$ 3.500 | R$ 5.500 |
-| Hospedagem (5 noites) | R$ 750 | R$ 2.500 |
+| Hospedagem (5 noites) | R$ 1.250 | R$ 2.500 |
 | Alimentação (R$ 300-400/dia) | R$ 1.500 | R$ 2.000 |
-| Ingressos (Sagrada Família + Park Güell) | R$ 500 | R$ 800 |
+| Ingressos (Sagrada Família + Park Güell) | R$ 250 | R$ 450 |
 | Transporte local | R$ 200 | R$ 350 |
-| **Total** | **~R$ 6.450** | **~R$ 11.150** |
+| **Total** | **~R$ 6.700** | **~R$ 10.800** |
 
-*Hospedagem econômica: hostel compartilhado (R$ 150/noite). Intermediário: hotel 3 estrelas no centro (R$ 500/noite).*
+*Hospedagem econômica: hostel compartilhado (R$ 250/noite). Intermediário: hotel 3 estrelas no centro (R$ 500/noite). Ingressos: entrada básica Sagrada Família EUR 26 + Park Güell EUR 13.*
 
 ## Dicas rápidas
 
