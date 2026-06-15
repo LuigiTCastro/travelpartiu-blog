@@ -8,6 +8,7 @@ data: "2026-06-05"
 imagem_capa: "https://images.unsplash.com/photo-1497414826197-4166f61a8e14?w=1200&q=80"
 tempo_leitura: "8 min"
 autor: "Equipe TravelPartiu"
+pais: "Brasil"
 destaque: true
 ---
 

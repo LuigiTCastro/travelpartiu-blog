@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Como viajar na baixa temporada e economizar até 40%"
 slug: "como-viajar-baixa-temporada-economizar"
 descricao: "Descubra como aproveitar a baixa temporada para viajar mais barato, com menos gente e mais qualidade. Dicas práticas e destinos ideais para cada mês."
@@ -8,6 +8,7 @@ data: "2026-06-22"
 imagem_capa: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80"
 tempo_leitura: "7 min"
 autor: "Equipe TravelPartiu"
+pais: ""
 destaque: false
 ---
 
@@ -34,12 +35,12 @@ A diferença de preço pode ser impressionante:
 
 ## Calendário da baixa temporada por destino
 
-### Brasil — praias do Sul e Sudeste
+### Brasil, praias do Sul e Sudeste
 - **Baixa temporada:** abril a junho, agosto a outubro
 - **Por que é boa:** clima ainda agradável, praias tranquilas, preços menores
 - **Destinos ideais:** Florianópolis, Ubatuba, Búzios, Paraty, Ilhabela
 
-### Brasil — Nordeste
+### Brasil, Nordeste
 - **Baixa temporada:** julho a setembro (exceto Fortaleza, que tem o Fortal em julho)
 - **Por que é boa:** menos chuva que nos primeiros meses do ano, calor seco e preços mais acessíveis
 - **Destinos ideais:** Jericoacoara, Natal, Porto de Galinhas, Maceió
@@ -57,7 +58,7 @@ A diferença de preço pode ser impressionante:
 ## Vantagens de viajar fora da temporada
 
 ### 1. Preço menor em tudo
-Passagem, hospedagem, tours, aluguel de carro — tudo fica mais barato. A diferença pode chegar a 50% em destinos de praia.
+Passagem, hospedagem, tours, aluguel de carro, tudo fica mais barato. A diferença pode chegar a 50% em destinos de praia.
 
 ### 2. Destinos mais autênticos
 Sem hordas de turistas, você acessa mais facilmente a versão "real" do destino: mercados locais, restaurantes frequentados por moradores, conversas genuínas com nativos.
@@ -108,7 +109,7 @@ Em alguns destinos turísticos, ônibus e transfers operam com frequência menor
 **Junho a agosto:**
 - **Gramado e Canela (RS):** o festival de Natal começa em outubro, mas junho/julho tem o Festival do Cinema e temperaturas agradáveis para passear
 - **Bonito (MS):** menos turistas nas atividades de ecoturismo, que têm limite diário de visitantes
-- **Chapada Diamantina (BA):** excelente para trilhas — menos calor e menos gente
+- **Chapada Diamantina (BA):** excelente para trilhas, menos calor e menos gente
 
 **Setembro a outubro:**
 - **Jericoacoara (CE):** o vento da windsurf é forte em setembro, praias menos lotadas
@@ -127,6 +128,6 @@ Imagina uma viagem de 5 dias para Florianópolis em fevereiro vs. outubro:
 | Alimentação | R$ 800 | R$ 700 |
 | **Total** | **R$ 5.900** | **R$ 2.900** |
 
-Uma diferença de R$ 3.000 por pessoa — o suficiente para fazer uma segunda viagem.
+Uma diferença de R$ 3.000 por pessoa, o suficiente para fazer uma segunda viagem.
 
 Viajar na baixa temporada não é sacrifício. É estratégia.

@@ -8,6 +8,7 @@ data: "2026-06-01"
 imagem_capa: "https://images.unsplash.com/photo-1504598318550-17eba1008a68?w=1200&q=80"
 tempo_leitura: "7 min"
 autor: "Equipe TravelPartiu"
+pais: ""
 ---
 
 A maioria das pessoas deixa o planejamento da viagem para a última hora, e aí começa o estresse. Voo caro, hotel sem disponibilidade, roteiro confuso e a sensação de que tudo poderia ser melhor.

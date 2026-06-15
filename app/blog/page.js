@@ -1,6 +1,5 @@
 import { getAllPosts, getCategories } from "@/lib/posts";
-import PostCard from "@/components/PostCard";
-import Link from "next/link";
+import BlogFilter from "@/components/BlogFilter";
 
 export const metadata = {
   title: "Todos os posts",
@@ -28,29 +27,7 @@ export default function BlogPage() {
       </div>
 
       <div className="max-w-[1200px] mx-auto px-5">
-        <div className="flex flex-wrap gap-2 py-8 sticky top-[60px] bg-bg z-10">
-          <Link
-            href="/blog"
-            className="text-[0.8125rem] font-semibold px-4 py-2 rounded-full bg-primary text-white"
-          >
-            Todos
-          </Link>
-          {categories.map((cat) => (
-            <Link
-              key={cat}
-              href={`/categoria/${cat}`}
-              className="text-[0.8125rem] font-medium px-4 py-2 rounded-full border border-border text-text-secondary hover:text-primary hover:border-primary hover:bg-primary-light transition-all duration-150"
-            >
-              {cat}
-            </Link>
-          ))}
-        </div>
-
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 pb-20">
-          {posts.map((post) => (
-            <PostCard key={post.slug} post={post} />
-          ))}
-        </div>
+        <BlogFilter posts={posts} categories={categories} />
       </div>
     </>
   );

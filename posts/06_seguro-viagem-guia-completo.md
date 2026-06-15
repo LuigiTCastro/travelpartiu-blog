@@ -1,23 +1,24 @@
----
+﻿---
 titulo: "Seguro viagem: o que cobre, como escolher e quando vale a pena"
 slug: "seguro-viagem-guia-completo"
 descricao: "Guia completo sobre seguro viagem: coberturas essenciais, como comparar planos, quanto custa e em quais situações é obrigatório ou indispensável."
 categoria: "Planejamento"
 destino: ""
 data: "2026-06-16"
-imagem_capa: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 tempo_leitura: "8 min"
 autor: "Equipe TravelPartiu"
+pais: ""
 destaque: false
 ---
 
-O seguro viagem é um daqueles itens que a gente sempre coloca na lista, mas às vezes deixa passar quando o orçamento aperta. Erro clássico. Uma emergência médica fora do Brasil pode custar dezenas de milhares de reais — e sem seguro, o prejuízo é todo seu.
+O seguro viagem é um daqueles itens que a gente sempre coloca na lista, mas às vezes deixa passar quando o orçamento aperta. Erro clássico. Uma emergência médica fora do Brasil pode custar dezenas de milhares de reais, e sem seguro, o prejuízo é todo seu.
 
 Este guia explica o que o seguro viagem cobre, como comparar as opções e quando ele é obrigatório ou simplesmente indispensável.
 
 ## O que é seguro viagem e para que serve
 
-Seguro viagem é um serviço de proteção que cobre despesas imprevistas durante a viagem — desde uma consulta médica até a repatriação em caso de emergência grave. Funciona como um seguro saúde temporário, mas voltado para as particularidades de quem está viajando: perda de bagagem, cancelamento de voo, acidentes, entre outros.
+Seguro viagem é um serviço de proteção que cobre despesas imprevistas durante a viagem, desde uma consulta médica até a repatriação em caso de emergência grave. Funciona como um seguro saúde temporário, mas voltado para as particularidades de quem está viajando: perda de bagagem, cancelamento de voo, acidentes, entre outros.
 
 Diferente do seguro saúde convencional, o seguro viagem funciona por reembolso ou assistência direta (o seguro paga direto para o prestador de serviço), dependendo da cobertura contratada.
 
@@ -68,7 +69,7 @@ Para viagens ao **Brasil com menores de 18 anos desacompanhados** e cruzeiros, t
 A resposta curta: sempre. Mas em alguns casos é ainda mais importante:
 
 - **Viagens aos EUA, Canadá e Austrália:** sistema de saúde privado e caríssimo. Uma internação de 3 dias pode custar USD 30.000 ou mais.
-- **Viagens de aventura:** trilhas, escalada, mergulho, esportes radicais — verifique se o plano cobre atividades de risco.
+- **Viagens de aventura:** trilhas, escalada, mergulho, esportes radicais, verifique se o plano cobre atividades de risco.
 - **Idosos ou pessoas com condições de saúde preexistentes:** busque planos com cobertura de doenças preexistentes (geralmente custa mais).
 - **Viagens longas:** quanto mais tempo fora, maior a probabilidade de algo acontecer.
 - **Viagens com crianças pequenas:** imprevistos acontecem, e atendimento pediátrico emergencial no exterior é caro.
@@ -113,11 +114,11 @@ Se for usar o seguro do cartão, leia as condições com cuidado antes de depend
 
 - **Contrate antes de embarcar:** parece óbvio, mas muita gente esquece e chega no aeroporto sem seguro.
 - **Guarde todos os documentos:** bilhete do seguro, número da apólice e telefone da central de atendimento no celular e impresso.
-- **Em caso de emergência:** ligue primeiro para a central do seguro antes de procurar atendimento por conta própria — isso evita problemas no reembolso.
-- **Para grupos:** compare o custo do seguro individual versus planos grupais — às vezes o coletivo sai mais barato.
+- **Em caso de emergência:** ligue primeiro para a central do seguro antes de procurar atendimento por conta própria, isso evita problemas no reembolso.
+- **Para grupos:** compare o custo do seguro individual versus planos grupais, às vezes o coletivo sai mais barato.
 
 ## Vale ou não vale?
 
 Quando você compara o custo do seguro (R$ 80-600 dependendo do destino) com o risco de uma emergência médica sem cobertura (que pode ultrapassar R$ 50.000), a resposta é simples: **sempre vale**.
 
-O seguro viagem não é gasto — é parte do custo da viagem, como a passagem e o hotel.
+O seguro viagem não é gasto, é parte do custo da viagem, como a passagem e o hotel.

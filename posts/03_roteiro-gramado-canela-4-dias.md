@@ -8,6 +8,7 @@ data: "2026-06-02"
 imagem_capa: "https://images.unsplash.com/photo-1628682711021-e1c1666ec089?w=1200&q=80"
 tempo_leitura: "9 min"
 autor: "Equipe TravelPartiu"
+pais: "Brasil"
 ---
 
 Gramado e Canela são aquele destino certeiro: funcionam bem para casais, famílias e grupos de amigos. A arquitetura europeia, o clima de montanha e a gastronomia colonial fazem a região parecer um pedaço de outro país, só que com sotaque gaúcho.
