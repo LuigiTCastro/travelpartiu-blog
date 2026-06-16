@@ -49,7 +49,8 @@ Para comer e passear: o **Bairro Gótico** tem as melhores ruas para se perder, 
 |---------|-------|-----------|-------|
 | Jun-ago | Quente | Lotado | Alto |
 | Set-out | Ótimo | Moderado | Médio |
-| Nov-mar | Fresco | Baixo | Menor |
+| Nov e mar | Fresco | Baixo | Menor |
+| Dez-fev | Frio | Muito baixo | Menor |
 | Abr-mai | Agradável | Moderado | Médio |
 
 **Melhor pedida para 2026:** setembro ou outubro. Clima excelente, menos turistas e preços mais acessíveis.
