@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getRecentPosts, getPostsDestaque, getCategories, getPostsDicas } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
+import RecentPostsCarousel from "@/components/RecentPostsCarousel";
 
 export default function Home() {
   const destaques = getPostsDestaque(6);
@@ -136,11 +137,7 @@ export default function Home() {
                 </svg>
               </Link>
             </div>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {recentes.map((post) => (
-                <PostCard key={post.slug} post={post} />
-              ))}
-            </div>
+            <RecentPostsCarousel posts={recentes} />
           </div>
         </section>
       )}
