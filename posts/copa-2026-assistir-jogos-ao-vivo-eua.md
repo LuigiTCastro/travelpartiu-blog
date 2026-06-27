@@ -12,7 +12,7 @@ pais: "Estados Unidos"
 destaque: true
 ---
 
-A Copa do Mundo 2026 entrou para a história antes mesmo de terminar. Com 48 seleções pela primeira vez e jogos em três países, é o maior torneio de futebol de todos os tempos. E a fase mais importante ainda está por vir: as quartas, semifinais e a grande final acontecem entre 4 e 19 de julho.
+A Copa do Mundo 2026 entrou para a história antes mesmo de terminar. Com 48 seleções pela primeira vez e jogos em três países, é o maior torneio de futebol de todos os tempos. E a fase mais importante ainda está por vir: as oitavas de final, quartas, semifinais e a grande final se estendem até 19 de julho.
 
 Se você está pensando em ir ao vivo, ainda dá tempo.
 
@@ -49,14 +49,14 @@ Estimativa para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
 
 | Item | Econômico | Intermediário |
 |------|-----------|---------------|
-| Passagem aérea (ida e volta) | R$ 4.500 | R$ 7.500 |
-| Hospedagem (7 noites) | R$ 3.500 | R$ 8.000 |
-| Ingressos (2 jogos, mercado secundário) | R$ 3.000 | R$ 8.000 |
+| Passagem aérea (ida e volta) | R$ 5.500 | R$ 9.000 |
+| Hospedagem (7 noites) | R$ 5.000 | R$ 12.000 |
+| Ingressos (2 jogos, mercado secundário) | R$ 3.500 | R$ 9.000 |
 | Alimentação (R$ 400-700/dia) | R$ 2.800 | R$ 4.900 |
-| Transporte local | R$ 500 | R$ 1.000 |
-| **Total estimado** | **~R$ 14.300** | **~R$ 29.400** |
+| Transporte local | R$ 800 | R$ 1.500 |
+| **Total estimado** | **~R$ 17.600** | **~R$ 36.400** |
 
-*Hospedagem econômica: hotel 2 estrelas fora do centro. Intermediário: hotel 3 estrelas com boa localização.*
+*Econômico: hostel ou hotel simples em NJ/subúrbios + oitavas de final. Intermediário: hotel 3 estrelas bem localizado + semifinal ou quartas de final com bons assentos. Hospedagem nos EUA durante Copa é cara mesmo: espere pagar no mínimo USD 100-150/noite em opções básicas.*
 
 ## Dicas por cidade
 
@@ -74,7 +74,7 @@ Julho em Dallas significa calor intenso (acima de 40°C). Hidratação e roupas 
 
 ## Logística e documentos
 
-**Visto:** brasileiros precisam de visto B1/B2 para entrar nos EUA. Não existe ESTA para brasileiros. Se ainda não tem visto, consulte nosso guia completo sobre como tirar o visto americano.
+**Visto:** brasileiros precisam de visto B1/B2 para entrar nos EUA. Não existe ESTA para brasileiros. Se ainda não tem visto, leia nosso [guia completo: visto americano para brasileiros, passo a passo](/blog/visto-americano-para-brasileiros-2026).
 
 **Passaporte:** válido por pelo menos 6 meses além da data de retorno.
 
