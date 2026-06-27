@@ -49,14 +49,14 @@ Estimativa para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
 
 | Item | Econômico | Intermediário |
 |------|-----------|---------------|
-| Passagem aérea (ida e volta) | R$ 5.500 | R$ 9.000 |
-| Hospedagem (7 noites) | R$ 5.000 | R$ 12.000 |
-| Ingressos (2 jogos, mercado secundário) | R$ 3.500 | R$ 9.000 |
-| Alimentação (R$ 400-700/dia) | R$ 2.800 | R$ 4.900 |
-| Transporte local | R$ 800 | R$ 1.500 |
-| **Total estimado** | **~R$ 17.600** | **~R$ 36.400** |
+| Passagem aérea (ida e volta) | R$ 4.000 | R$ 7.000 |
+| Hospedagem (7 noites) | R$ 2.800 | R$ 6.500 |
+| Ingressos (2 jogos, mercado secundário) | R$ 2.500 | R$ 6.000 |
+| Alimentação (~R$ 200-400/dia) | R$ 1.400 | R$ 2.800 |
+| Transporte local | R$ 500 | R$ 1.000 |
+| **Total estimado** | **~R$ 11.200** | **~R$ 23.300** |
 
-*Econômico: hostel ou hotel simples em NJ/subúrbios + oitavas de final. Intermediário: hotel 3 estrelas bem localizado + semifinal ou quartas de final com bons assentos. Hospedagem nos EUA durante Copa é cara mesmo: espere pagar no mínimo USD 100-150/noite em opções básicas.*
+*Econômico: hostel ou Airbnb básico (~$65/noite) + oitavas de final no mercado secundário (~$200 por ingresso). Intermediário: hotel 3 estrelas bem localizado (~$150/noite) + quartas de final ($450-500 por ingresso). O grande diferencial da Copa é o ingresso — sem ele, 7 dias nos EUA custam na faixa de R$ 8.000 a R$ 14.000 no total.*
 
 ## Dicas por cidade
 
