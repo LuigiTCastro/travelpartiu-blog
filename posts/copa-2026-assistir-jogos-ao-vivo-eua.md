@@ -5,7 +5,7 @@ descricao: "A Copa 2026 está acontecendo agora nos EUA, Canadá e México. Guia
 categoria: "Destinos"
 destino: "Estados Unidos"
 data: "2026-06-27"
-imagem_capa: "https://images.unsplash.com/photo-1696542095251-2dff09ec6b5b?w=1200&q=80"
+imagem_capa: "https://images.unsplash.com/photo-1751232576230-e065bfa42aaf?w=1200&q=80"
 tempo_leitura: "7 min"
 autor: "Equipe TravelPartiu"
 pais: "Estados Unidos"
@@ -64,7 +64,7 @@ Estimativa para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
 | Transporte local | R$ 500 | R$ 1.000 |
 | **Total estimado** | **~R$ 14.100** | **~R$ 31.300** |
 
-*Econômico: hostel ou Airbnb básico (~$65/noite) + 2 ingressos dos 16 avos em estádio menos concorrido como Kansas City (~$450 cada). Intermediário: hotel 3 estrelas (~$150/noite) + 2 ingressos em MetLife ou SoFi (~$1.200 cada). Sem ingressos, 7 dias nos EUA ficam na faixa de R$ 8.700 a R$ 17.300. Preços consultados no SeatGeek em 27/06/2026.*
+*Econômico: hostel ou Airbnb básico (aprox. $65/noite) + 2 ingressos dos 16 avos em estádio menos concorrido como Kansas City (aprox. $450 cada). Intermediário: hotel 3 estrelas (aprox. $150/noite) + 2 ingressos em MetLife ou SoFi (aprox. $1.200 cada). Sem ingressos, 7 dias nos EUA ficam na faixa de R$ 8.700 a R$ 17.300. Preços consultados no SeatGeek em 27/06/2026.*
 
 ## Dicas por cidade
 
