@@ -39,9 +39,16 @@ A maioria dos ingressos de grupos já foi utilizada, mas a fase eliminatória te
 
 **Site oficial FIFA:** tickets.fifa.com. Verifique disponibilidade para cada jogo individualmente. Packages de hospitalidade oficial ainda têm vagas.
 
-**Mercado secundário:** StubHub, SeatGeek e Viagogo têm ingressos para todos os jogos, a preços mais altos. Para quartas de final espere pagar entre USD 300 e USD 800 por pessoa. Semifinal e final: USD 800 a USD 3.000 ou mais.
+**Mercado secundário:** StubHub, SeatGeek e Viagogo têm ingressos para todos os jogos. Os preços variam muito conforme o estádio e o jogo:
 
-**Dica prática:** ingressos de jogos sem times classificados ainda (como "Vencedor A vs. Vencedor B") costumam ser mais baratos antes da definição dos adversários.
+| Fase | Estádio menos disputado | Estádios top (NYC, Miami, LA) |
+|------|------------------------|-------------------------------|
+| Oitavas de final | A partir de USD 449 | USD 1.000 a USD 3.500 |
+| Quartas de final | USD 600-900 | USD 1.500-4.000+ |
+| Semifinal | USD 1.200+ | USD 2.500-6.000+ |
+| Final (MetLife, NJ) | USD 3.000+ | USD 5.000-15.000+ |
+
+**Dica prática:** estádios como Arrowhead (Kansas City) e Mercedes-Benz (Atlanta) costumam ter os ingressos mais baratos. MetLife (NY), Hard Rock (Miami) e SoFi (LA) são os mais caros.
 
 ## Quanto custa a viagem
 
@@ -51,12 +58,12 @@ Estimativa para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
 |------|-----------|---------------|
 | Passagem aérea (ida e volta) | R$ 4.000 | R$ 7.000 |
 | Hospedagem (7 noites) | R$ 2.800 | R$ 6.500 |
-| Ingressos (2 jogos, mercado secundário) | R$ 2.500 | R$ 6.000 |
+| Ingressos (2 oitavas, mercado secundário) | R$ 5.400 | R$ 14.000 |
 | Alimentação (~R$ 200-400/dia) | R$ 1.400 | R$ 2.800 |
 | Transporte local | R$ 500 | R$ 1.000 |
-| **Total estimado** | **~R$ 11.200** | **~R$ 23.300** |
+| **Total estimado** | **~R$ 14.100** | **~R$ 31.300** |
 
-*Econômico: hostel ou Airbnb básico (~$65/noite) + oitavas de final no mercado secundário (~$200 por ingresso). Intermediário: hotel 3 estrelas bem localizado (~$150/noite) + quartas de final ($450-500 por ingresso). O grande diferencial da Copa é o ingresso — sem ele, 7 dias nos EUA custam na faixa de R$ 8.000 a R$ 14.000 no total.*
+*Econômico: hostel ou Airbnb básico (~$65/noite) + 2 ingressos das oitavas em estádio menos concorrido como Kansas City (~$450 cada). Intermediário: hotel 3 estrelas (~$150/noite) + 2 ingressos em MetLife ou SoFi (~$1.200 cada). Sem ingressos, 7 dias nos EUA ficam na faixa de R$ 8.700 a R$ 17.300. Preços consultados no SeatGeek em 27/06/2026.*
 
 ## Dicas por cidade
 
