@@ -19,7 +19,7 @@ export const metadata = {
   },
   description:
     "Dicas práticas, roteiros detalhados e guias completos para planejar sua próxima viagem. Tudo o que você precisa para viajar melhor.",
-  metadataBase: new URL("https://travelpartiu-blog.vercel.app"),
+  metadataBase: new URL("https://www.blogtravelpartiu.com.br"),
   openGraph: {
     siteName: "Blog TravelPartiu",
     locale: "pt_BR",
