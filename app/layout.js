@@ -36,13 +36,11 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="theme-color" content="#3B82F6" />
         <link rel="icon" href="/favicon.ico" />
-        {/* ADSENSE — substituir ca-pub-XXXXXXXXXX pelo Publisher ID real após aprovação
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6499647453255617"
           crossOrigin="anonymous"
         />
-        */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-6ZL756F4BQ" />
         <script dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
