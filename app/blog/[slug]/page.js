@@ -147,13 +147,18 @@ export default async function PostPage({ params }) {
 
             {/* Cards de afiliados — aparecem após o conteúdo, antes do CTA */}
             {afiliados.length > 0 && (
-              <div className="mt-10 pt-8 border-t border-border">
-                <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-4">
-                  Links uteis para sua viagem
+              <div className="mt-12 pt-8 border-t border-border">
+                <p className="text-[0.6875rem] font-bold text-primary uppercase tracking-widest mb-1">
+                  Antes de partir
                 </p>
-                {afiliados.map((afiliado) => (
-                  <AfiliadoCard key={afiliado.id} {...afiliado} />
-                ))}
+                <h3 className="text-lg font-bold text-text mb-5">
+                  Planeje melhor, gaste menos
+                </h3>
+                <div className="flex flex-col gap-3">
+                  {afiliados.map((afiliado) => (
+                    <AfiliadoCard key={afiliado.id} {...afiliado} />
+                  ))}
+                </div>
               </div>
             )}
 
