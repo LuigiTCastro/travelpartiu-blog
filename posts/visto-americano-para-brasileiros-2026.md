@@ -111,3 +111,4 @@ Despachantes oferecem ajuda com o DS-160 e agendamento por R$ 200 a R$ 500 adici
 - Leve os documentos em papel, organizados e em ordem
 - Chegue com pelo menos 15 minutos de antecedência ao consulado
 - Celular não é permitido dentro do consulado: deixe no carro ou guarde antes de entrar
+- **Com o visto aprovado, não esqueça o seguro viagem** — nos EUA é indispensável. [Compare planos no Seguros Promo →](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog)

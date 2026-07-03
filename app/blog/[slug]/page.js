@@ -2,7 +2,8 @@ import { getPostBySlug, getAllSlugs, getRelatedPosts } from "@/lib/posts";
 import { getAfiliadosPorCategoria } from "@/lib/afiliados";
 import { notFound } from "next/navigation";
 import AdSlot from "@/components/AdSlot";
-import AfiliadoCard from "@/components/AfiliadoCard";
+import MidContentAfiliado from "@/components/MidContentAfiliado";
+import AfiliadoChecklist from "@/components/AfiliadoChecklist";
 import TemplatesCTA from "@/components/TemplatesCTA";
 import Breadcrumb from "@/components/Breadcrumb";
 import TableOfContents from "@/components/TableOfContents";
@@ -140,27 +141,21 @@ export default async function PostPage({ params }) {
         <div className="flex gap-16">
           {/* Main content */}
           <div className="flex-1 min-w-0 max-w-[680px]">
-            <div
-              className="prose"
-              dangerouslySetInnerHTML={{ __html: post.contentHtml }}
-            />
+            {(() => {
+              const parts = post.contentHtml.split("<!--MID_AFILIADO-->");
+              return (
+                <>
+                  <div className="prose" dangerouslySetInnerHTML={{ __html: parts[0] }} />
+                  <MidContentAfiliado categoria={post.categoria} />
+                  {parts[1] && (
+                    <div className="prose" dangerouslySetInnerHTML={{ __html: parts[1] }} />
+                  )}
+                </>
+              );
+            })()}
 
-            {/* Cards de afiliados — aparecem após o conteúdo, antes do CTA */}
-            {afiliados.length > 0 && (
-              <div className="mt-12 pt-8 border-t border-border">
-                <p className="text-[0.6875rem] font-bold text-primary uppercase tracking-widest mb-1">
-                  Antes de partir
-                </p>
-                <h3 className="text-lg font-bold text-text mb-5">
-                  Planeje melhor, gaste menos
-                </h3>
-                <div className="flex flex-col gap-3">
-                  {afiliados.map((afiliado) => (
-                    <AfiliadoCard key={afiliado.id} {...afiliado} />
-                  ))}
-                </div>
-              </div>
-            )}
+            {/* Checklist de recursos — após o conteúdo */}
+            <AfiliadoChecklist afiliados={afiliados} />
 
             {/* Newsletter */}
             <NewsletterInline />

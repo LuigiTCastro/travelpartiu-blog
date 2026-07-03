@@ -52,7 +52,7 @@ O preço depende do destino, da duração da viagem e do valor de cobertura. Vej
 | EUA / Canadá | 10 dias | USD 100.000 | R$ 350-600 |
 | Cruzeiro | 7 dias | USD 50.000 | R$ 150-300 |
 
-**Dica:** Sempre compare o valor de cobertura, não só o preço. Um plano barato com cobertura de USD 15.000 pode não ser suficiente em países com sistema de saúde caro, como os EUA.
+**Dica:** Sempre compare o valor de cobertura, não só o preço. Um plano barato com cobertura de USD 15.000 pode não ser suficiente em países com sistema de saúde caro, como os EUA. Para comparar planos e cotar em menos de 2 minutos, use o [Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog) — maior comparador de seguros viagem do Brasil.
 
 ## Quando o seguro viagem é obrigatório
 
@@ -122,3 +122,5 @@ Se for usar o seguro do cartão, leia as condições com cuidado antes de depend
 Quando você compara o custo do seguro (R$ 80-600 dependendo do destino) com o risco de uma emergência médica sem cobertura (que pode ultrapassar R$ 50.000), a resposta é simples: **sempre vale**.
 
 O seguro viagem não é gasto, é parte do custo da viagem, como a passagem e o hotel.
+
+[Cotar seguro viagem agora →](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog)

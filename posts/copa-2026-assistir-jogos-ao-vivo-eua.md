@@ -86,7 +86,7 @@ Julho em Dallas significa calor intenso (acima de 40°C). Hidratação e roupas 
 
 **Passaporte:** válido por pelo menos 6 meses além da data de retorno.
 
-**Seguro viagem:** obrigatório por bom senso. Emergência médica nos EUA pode custar dezenas de milhares de dólares.
+**Seguro viagem:** obrigatório por bom senso. Emergência médica nos EUA pode custar dezenas de milhares de dólares. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog) — a partir de R$ 10/dia, cotação em 2 minutos.
 
 **Apps úteis:** Google Maps (funciona bem nos EUA), Uber, Transit (metrô e ônibus), e o app oficial FIFA 2026.
 
