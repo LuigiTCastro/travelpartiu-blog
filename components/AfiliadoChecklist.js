@@ -13,12 +13,10 @@ export default function AfiliadoChecklist({ afiliados }) {
 
       <ul className="space-y-4">
         {afiliados.map((af) => (
-          <li key={af.id} className="flex items-start gap-3">
-            <span className="text-lg shrink-0 mt-0.5">{af.icon}</span>
+          <li key={af.id}>
             <div className="flex-1 min-w-0">
               <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
                 <span className="font-semibold text-sm text-text">{af.titulo}</span>
-                <span className="text-text-muted text-xs">—</span>
                 <span className="text-sm text-text-secondary">{af.descricao_curta}</span>
               </div>
               <a
@@ -38,7 +36,7 @@ export default function AfiliadoChecklist({ afiliados }) {
       </ul>
 
       <p className="text-[0.6875rem] text-text-muted mt-5 leading-relaxed">
-        Links de parceiros — sem custo extra para você. Cada compra através desses links ajuda a manter o blog gratuito.
+        Links de parceiros. Sem custo extra para você. Cada compra através desses links ajuda a manter o blog gratuito.
       </p>
     </div>
   );
