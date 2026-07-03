@@ -1,4 +1,3 @@
-// Checklist editorial de recursos — substitui os cards grandes no final do post
 export default function AfiliadoChecklist({ afiliados }) {
   if (!afiliados?.length) return null;
 
@@ -11,26 +10,26 @@ export default function AfiliadoChecklist({ afiliados }) {
         Recursos que uso e recomendo
       </h3>
 
-      <ul className="space-y-4">
+      <ul className="space-y-3">
         {afiliados.map((af) => (
           <li key={af.id}>
-            <div className="flex-1 min-w-0">
-              <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
-                <span className="font-semibold text-sm text-text">{af.titulo}</span>
-                <span className="text-sm text-text-secondary">{af.descricao_curta}</span>
+            <a
+              href={af.link}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="flex items-center justify-between gap-4 p-4 border border-border rounded-xl hover:border-primary hover:shadow-sm transition-all"
+            >
+              <div className="min-w-0">
+                <p className="font-semibold text-sm text-text">{af.titulo}</p>
+                <p className="text-sm text-text-secondary mt-0.5">{af.descricao_curta}</p>
               </div>
-              <a
-                href={af.link}
-                target="_blank"
-                rel="noopener noreferrer sponsored"
-                className="inline-flex items-center gap-1 mt-1.5 text-xs font-semibold text-primary hover:text-primary-hover transition-colors"
-              >
+              <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary shrink-0">
                 {af.cta}
                 <svg className="w-3 h-3" fill="none" stroke="currentColor" strokeWidth={2.5} viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
                 </svg>
-              </a>
-            </div>
+              </span>
+            </a>
           </li>
         ))}
       </ul>
