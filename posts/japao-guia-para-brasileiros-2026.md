@@ -1,5 +1,5 @@
 ---
-titulo: "O Brasil eliminou o Japão, mas o país merece uma visita. Guia completo para brasileiros"
+titulo: "O Brasil eliminou o Japão, mas o país merece uma visita: guia completo para brasileiros"
 slug: "japao-guia-para-brasileiros-2026"
 descricao: "Japão para brasileiros: visto, quanto custa, melhor época para ir, o que fazer e como se planejar para uma das viagens mais marcantes da vida."
 categoria: "Destinos"
