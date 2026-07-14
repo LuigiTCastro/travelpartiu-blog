@@ -84,7 +84,7 @@ Estimativa para **10 dias na Noruega**, saindo de São Paulo:
 
 A capital é menor e mais tranquila do que muitos imaginam, mas tem museus excelentes e uma gastronomia que surpreende.
 
-![Ópera de Oslo com fachada moderna de vidro](https://images.unsplash.com/photo-1754408380043-2ce9062603b4?w=1200&q=80)
+![Vista panorâmica de Oslo à beira-mar ao entardecer](https://images.unsplash.com/photo-1433757741270-94a3bcadc2f3?w=1200&q=80)
 
 - **Museu Viking:** barcos reais de mais de mil anos, conservados de forma impressionante
 - **Museu Fram:** o navio que chegou mais perto do Polo Norte e do Polo Sul na história
@@ -103,6 +103,8 @@ Bergen é a porta de entrada para os fjords e uma das cidades mais fotogênicas 
 ### Os Fjords
 
 Os fjords são a principal razão para ir à Noruega. Braços de mar que cortam montanhas de centenas de metros de altura, com água verde-esmeralda e cascatas caindo das encostas.
+
+![Montanhas cercando um fjord norueguês em Lofoten](https://images.unsplash.com/photo-1744619438365-19c55e108cb7?w=1200&q=80)
 
 Os mais famosos e mais acessíveis a partir de Bergen:
 
