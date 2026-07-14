@@ -21,10 +21,10 @@ Sim. A Noruega faz parte do Espaço Schengen, então o visto necessário é o **
 
 **Como solicitar:**
 
-O pedido é feito pelo VFS Global, empresa credenciada pelo consulado norueguês. Há postos em São Paulo, Rio de Janeiro, Brasília, Recife e Porto Alegre.
+O pedido é feito pelo [VFS Global](https://visa.vfsglobal.com/bra/pt/nor/), empresa credenciada pelo consulado norueguês. Há postos em São Paulo, Rio de Janeiro, Brasília, Recife e Porto Alegre.
 
-- Custo: aprox. EUR 90 (cerca de R$ 540)
-- Prazo: de 15 a 30 dias úteis. Solicite com pelo menos 6 semanas de antecedência
+- Custo: taxa consular de aprox. EUR 90 (cerca de R$ 540) mais taxa de serviço do VFS Global de aprox. EUR 25 (cerca de R$ 150)
+- Prazo: em média 15 dias úteis, podendo chegar a 30 em períodos de alta demanda. Solicite com pelo menos 6 semanas de antecedência
 - Validade: geralmente 30 dias a 3 meses
 
 **Documentos necessários:**
@@ -64,13 +64,13 @@ Estimativa para **10 dias na Noruega**, saindo de São Paulo:
 | Item | Econômico | Intermediário |
 |------|-----------|---------------|
 | Passagem aérea (ida e volta) | R$ 6.500 | R$ 11.000 |
-| Hospedagem (10 noites) | R$ 4.500 | R$ 9.500 |
+| Hospedagem (10 noites) | R$ 3.500 | R$ 9.500 |
 | Alimentação (R$ 150 a 400/dia) | R$ 1.500 | R$ 4.000 |
 | Transporte interno | R$ 1.500 | R$ 3.000 |
-| Passeios e atrações | R$ 800 | R$ 2.000 |
-| **Total estimado** | **aprox. R$ 14.800** | **aprox. R$ 29.500** |
+| Passeios e atrações | R$ 1.200 | R$ 3.000 |
+| **Total estimado** | **aprox. R$ 14.200** | **aprox. R$ 30.500** |
 
-*Econômico: hostels bem avaliados (aprox. EUR 40 a EUR 60/noite), supermercado e cozinha própria para muitas refeições. Intermediário: hotéis simples (aprox. EUR 120 a EUR 180/noite) e restaurantes locais. Comer em restaurante em Oslo custa entre EUR 25 e EUR 60 por pessoa.*
+*Econômico: hostels bem avaliados (aprox. EUR 40 a EUR 60/noite, cerca de R$ 240 a R$ 360), supermercado e cozinha própria para muitas refeições. Intermediário: hotéis simples (aprox. EUR 120 a EUR 180/noite) e restaurantes locais. Comer em restaurante em Oslo custa entre EUR 25 e EUR 60 por pessoa. Passeios incluem entrada em museus e um cruzeiro pelo fjord (aprox. EUR 60 a EUR 100); no intermediário, inclui também um safári de aurora boreal em Tromsø.*
 
 **Como economizar na Noruega:**
 - Faça supermercado (Rema 1000, Kiwi e Coop são as redes mais baratas)
@@ -83,6 +83,8 @@ Estimativa para **10 dias na Noruega**, saindo de São Paulo:
 ### Oslo
 
 A capital é menor e mais tranquila do que muitos imaginam, mas tem museus excelentes e uma gastronomia que surpreende.
+
+![Ópera de Oslo com fachada moderna de vidro](https://images.unsplash.com/photo-1754408380043-2ce9062603b4?w=1200&q=80)
 
 - **Museu Viking:** barcos reais de mais de mil anos, conservados de forma impressionante
 - **Museu Fram:** o navio que chegou mais perto do Polo Norte e do Polo Sul na história
@@ -122,6 +124,8 @@ Para quem vai atrás da aurora boreal ou do sol da meia-noite, Tromsø é a base
 ## Gastronomia norueguesa
 
 A culinária norueguesa é simples, baseada em frutos do mar e produtos locais. Não é o ponto mais forte do país, mas tem destaques que valem provar.
+
+![Frutos do mar frescos em mercado de Bergen, Noruega](https://images.unsplash.com/photo-1754587489041-9fc8301f4c98?w=1200&q=80)
 
 - **Salmão:** o melhor do mundo, literalmente. O salmão norueguês exportado para o Brasil é produzido nos fjords
 - **Bacalhau (skrei):** a temporada vai de janeiro a abril, quando os bacalhaus árticos migram para o norte da Noruega
