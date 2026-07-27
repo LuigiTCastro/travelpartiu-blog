@@ -1,5 +1,5 @@
 ﻿---
-titulo: "Roteiro de 5 dias em Florianópolis: praias, trilhas e onde ficar"
+titulo: "Roteiro Florianópolis 5 dias: praias, trilhas e onde ficar"
 slug: "roteiro-florianopolis-5-dias"
 descricao: "Guia completo de 5 dias por Florianópolis com as melhores praias, trilhas, gastronomia e dicas práticas para aproveitar a Ilha da Magia."
 categoria: "Roteiros"

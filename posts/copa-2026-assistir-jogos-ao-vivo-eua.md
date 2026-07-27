@@ -1,7 +1,7 @@
 ---
 titulo: "Copa do Mundo 2026: como assistir jogos ao vivo nos EUA"
 slug: "copa-2026-assistir-jogos-ao-vivo-eua"
-descricao: "A Copa 2026 está acontecendo agora nos EUA, Canadá e México. Guia completo para quem quer acompanhar os jogos ao vivo: ingressos, cidades-sede, hospedagem e quanto custa."
+descricao: "Copa 2026 nos EUA, Canadá e México. Guia para ver jogos ao vivo: ingressos, cidades-sede, hospedagem e quanto custa para ir."
 categoria: "Destinos"
 destino: "Estados Unidos"
 data: "2026-06-27"

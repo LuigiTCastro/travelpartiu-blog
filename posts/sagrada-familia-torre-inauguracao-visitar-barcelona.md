@@ -1,5 +1,5 @@
 ---
-titulo: "A Sagrada Família acaba de se tornar a basílica mais alta do mundo, e é hora de ir"
+titulo: "Sagrada Família: guia completo para visitar em Barcelona"
 slug: "sagrada-familia-torre-inauguracao-visitar-barcelona"
 descricao: "Em junho de 2026, a Sagrada Família inaugurou sua maior torre e entrou para a história. Guia completo para visitar a obra-prima de Gaudí em Barcelona."
 categoria: "Destinos"

@@ -1,5 +1,5 @@
 ﻿---
-titulo: "Roteiro de 3 dias em Búzios: o que fazer, praias e dicas práticas"
+titulo: "Roteiro Búzios 3 dias: praias, o que fazer e dicas práticas"
 slug: "roteiro-buzios-3-dias"
 descricao: "Guia completo de 3 dias em Búzios com as melhores praias, passeios, restaurantes e quanto você vai gastar para aproveitar o melhor do destino."
 categoria: "Roteiros"

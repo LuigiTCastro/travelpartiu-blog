@@ -1,5 +1,5 @@
 ---
-titulo: "Roteiro de 5 dias em Jericoacoara: o que fazer, onde ficar e quanto gastar"
+titulo: "Roteiro Jericoacoara 5 dias: o que fazer e quanto gastar"
 slug: "roteiro-jericoacoara-5-dias"
 descricao: "Roteiro completo de 5 dias em Jeri com dicas de hospedagem, passeios, estimativa de gastos e o melhor período para visitar."
 categoria: "Roteiros"

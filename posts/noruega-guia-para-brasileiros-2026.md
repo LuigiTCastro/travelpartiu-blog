@@ -1,7 +1,7 @@
 ---
-titulo: "A Noruega eliminou o Brasil, mas o país merece uma visita: guia completo para brasileiros"
+titulo: "Noruega para brasileiros: guia completo de viagem 2026"
 slug: "noruega-guia-para-brasileiros-2026"
-descricao: "Noruega para brasileiros: visto Schengen, quanto custa, melhor época, fjords, aurora boreal e como se planejar para uma das viagens mais impressionantes da vida."
+descricao: "Noruega para brasileiros: visto Schengen, quanto custa, melhor época, fjords, aurora boreal e tudo para planejar sua viagem."
 categoria: "Destinos"
 destino: "Noruega"
 data: "2026-07-13"
