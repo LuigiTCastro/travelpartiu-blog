@@ -1,5 +1,5 @@
 ﻿---
-titulo: "Seguro viagem: o que cobre, como escolher e quando vale a pena"
+titulo: "Seguro viagem: o que cobre e como escolher"
 slug: "seguro-viagem-guia-completo"
 descricao: "Guia completo sobre seguro viagem: coberturas essenciais, como comparar planos, quanto custa e em quais situações é obrigatório ou indispensável."
 categoria: "Planejamento"

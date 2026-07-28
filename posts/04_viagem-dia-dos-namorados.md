@@ -1,5 +1,5 @@
 ---
-titulo: "Dia dos Namorados: 8 destinos românticos para viajar no Brasil"
+titulo: "Dia dos Namorados: 8 destinos para viajar no Brasil"
 slug: "viagem-dia-dos-namorados"
 descricao: "De praias paradisíacas a cidades históricas, selecionamos os melhores destinos brasileiros para uma viagem inesquecível no Dia dos Namorados."
 categoria: "Dicas de viagem"

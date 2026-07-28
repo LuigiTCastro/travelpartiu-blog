@@ -1,5 +1,5 @@
 ---
-titulo: "Visto americano para brasileiros: passo a passo completo (2026)"
+titulo: "Visto americano para brasileiros: guia completo 2026"
 slug: "visto-americano-para-brasileiros-2026"
 descricao: "Guia 2026: como preencher o DS-160, agendar a entrevista, documentos necessários e dicas para brasileiros serem aprovados no visto americano."
 categoria: "Planejamento"
