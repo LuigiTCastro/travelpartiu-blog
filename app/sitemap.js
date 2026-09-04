@@ -1,7 +1,7 @@
 import { getAllPosts, getCategories } from "@/lib/posts";
 
 export default function sitemap() {
-  const baseUrl = "https://blogtravelpartiu.com.br";
+  const baseUrl = "https://www.blogtravelpartiu.com.br";
   const posts = getAllPosts();
   const categories = getCategories();
 

@@ -6,6 +6,6 @@ export default function robots() {
         allow: "/",
       },
     ],
-    sitemap: "https://blog.travelpartiu.com/sitemap.xml",
+    sitemap: "https://www.blogtravelpartiu.com.br/sitemap.xml",
   };
 }
