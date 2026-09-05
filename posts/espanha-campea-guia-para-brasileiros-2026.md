@@ -1,7 +1,7 @@
 ---
-titulo: "A Espanha é a campeã do mundo: guia completo para quem quer conhecer o país"
+titulo: "Espanha para brasileiros: guia completo de viagem 2026"
 slug: "espanha-campea-guia-para-brasileiros-2026"
-descricao: "Espanha para brasileiros: visto Schengen, quanto custa, melhor época, Madrid, Barcelona, Sevilha e dicas práticas para conhecer o país da nova campeã mundial."
+descricao: "Espanha para brasileiros: entrada sem visto, quanto custa, melhor época, Madrid, Barcelona, Sevilha e dicas práticas para a bicampeã mundial."
 categoria: "Destinos"
 destino: "Espanha"
 data: "2026-07-28"
@@ -11,33 +11,23 @@ autor: "Equipe TravelPartiu"
 destaque: true
 ---
 
-A Espanha conquistou o tetracampeonato mundial em 19 de julho de 2026, no MetLife Stadium, em Nova Jersey. A festa nas ruas de Madrid e Barcelona tomou conta dos noticiários no mundo todo, e trouxe de volta os holofotes para um dos destinos mais completos da Europa.
+A Espanha conquistou o bicampeonato mundial em 19 de julho de 2026, no MetLife Stadium, em Nova Jersey. A festa nas ruas de Madrid e Barcelona tomou conta dos noticiários no mundo todo, e trouxe de volta os holofotes para um dos destinos mais completos da Europa.
 
 Se você assistiu à comemoração e ficou com vontade de conhecer o país da nova campeã: a Espanha entrega história, praia, gastronomia e vida noturna em doses generosas, tudo isso com boa infraestrutura para turistas.
 
 ## Brasileiros precisam de visto para a Espanha?
 
-Sim. A Espanha faz parte do Espaço Schengen, então o documento necessário é o **visto Schengen**, emitido pelo Consulado da Espanha no Brasil.
+Não. Brasileiro é isento de visto para a Espanha e para todo o Espaço Schengen em viagens de turismo de até 90 dias em cada período de 180 dias.
 
-**Como solicitar:**
-
-O pedido é feito pela BLS International, empresa credenciada pelo consulado espanhol. Há postos em São Paulo, Rio de Janeiro, Brasília, Salvador, Recife, Belo Horizonte e Porto Alegre.
-
-- Custo: aprox. EUR 90 (cerca de R$ 540)
-- Prazo: de 15 a 20 dias úteis. Solicite com pelo menos 4 semanas de antecedência
-- Validade: geralmente 90 dias, entrada múltipla
-
-**Documentos necessários:**
+**Requisitos gerais de entrada:**
 - Passaporte válido por pelo menos 3 meses além da data de retorno
-- Formulário de solicitação preenchido e assinado
-- Foto padrão Schengen
 - Comprovante de hospedagem durante toda a estadia
 - Passagem aérea de ida e volta
-- Seguro viagem com cobertura mínima de EUR 30.000 (obrigatório para visto Schengen)
-- Extratos bancários dos últimos 3 meses
-- Comprovante de vínculo empregatício ou declaração de IR
+- Comprovação de meios financeiros para a estadia
 
-**Dica importante:** o seguro viagem é exigido no momento do pedido de visto, não só recomendado. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia, e leve o comprovante junto com os outros documentos.
+A partir do último trimestre de 2026, entra em vigor o ETIAS: não é um visto, é uma autorização eletrônica de viagem, custa aprox. EUR 20 e vale por 3 anos. Menores de 18 e maiores de 70 anos são isentos do pagamento, mas ainda precisam da autorização.
+
+**Dica importante:** o seguro viagem não é exigência legal para o turista brasileiro isento de visto, mas é fortemente recomendado: o atendimento médico particular na Espanha tem custo alto, e um seguro de qualidade cobre emergência, hospitalização e repatriação. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia.
 
 ## Quando ir à Espanha
 
@@ -91,7 +81,7 @@ A capital espanhola combina arte de primeiro nível, parques enormes e uma vida 
 
 Capital da Catalunha, mistura arquitetura de Gaudí, praia urbana e um dos bairros históricos mais bonitos da Europa.
 
-- **Sagrada Família:** a obra-prima inacabada de Gaudí, reserve o ingresso com antecedência online
+- **Sagrada Família:** a obra de Gaudí, que teve sua torre central concluída e inaugurada em 2026 mas ainda tem obras internas em andamento. Reserve o ingresso com antecedência online
 - **Park Güell:** mosaicos coloridos e vista panorâmica da cidade
 - **Bairro Gótico:** ruas estreitas medievais no coração da cidade velha
 - **La Rambla e o Mercado de La Boqueria:** a avenida mais famosa da cidade e um mercado com bancas de frutas, presunto e frutos do mar
@@ -125,8 +115,8 @@ A cozinha espanhola varia muito de região para região, mas tem clássicos que 
 
 - **Moeda:** euro (EUR). Cartão é amplamente aceito, mas leve algum dinheiro em espécie para mercados e bares menores
 - **Internet:** chips de dados locais (Vodafone, Orange, Movistar) disponíveis em qualquer loja de telefonia nos aeroportos e centros das cidades
-- **Seguro viagem:** obrigatório para o visto Schengen com cobertura mínima de EUR 30.000. [Compare no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
-- **Transporte entre cidades:** o trem de alta velocidade (AVE) liga Madrid a Barcelona em pouco mais de 2h30, e Madrid a Sevilha em 2h30. Mais rápido e confortável que o avião para trajetos internos
+- **Seguro viagem:** não é exigência legal para o turista brasileiro isento de visto, mas o custo do atendimento médico particular na Espanha justifica a contratação. [Compare no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
+- **Transporte entre cidades:** o trem de alta velocidade (AVE) liga Madrid a Barcelona em aprox. 2h30 no trajeto mais rápido, e Madrid a Sevilha em aprox. 2h30. Mais rápido e confortável que o avião para trajetos internos
 - **Idioma:** espanhol (castelhano), com catalão em Barcelona e regiões da Catalunha. O idioma é próximo do português e a comunicação costuma fluir bem, mesmo sem fluência
 - **Sesta:** muitos comércios pequenos fecham entre 14h e 17h, principalmente fora das grandes capitais. Planeje compras e passeios com esse horário em mente
 - **Tomada:** padrão europeu (tipo F, dois pinos redondos). Leve um adaptador universal

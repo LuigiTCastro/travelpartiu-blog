@@ -1,7 +1,7 @@
 ---
 titulo: "Noruega para brasileiros: guia completo de viagem 2026"
 slug: "noruega-guia-para-brasileiros-2026"
-descricao: "Noruega para brasileiros: visto Schengen, quanto custa, melhor época, fjords, aurora boreal e tudo para planejar sua viagem."
+descricao: "Noruega para brasileiros: entrada sem visto, quanto custa, melhor época, fjords, aurora boreal e tudo para planejar sua viagem."
 categoria: "Destinos"
 destino: "Noruega"
 data: "2026-07-13"
@@ -17,28 +17,14 @@ Para quem ficou curioso sobre aquele país de fjords, aurora boreal e paisagens 
 
 ## Brasileiros precisam de visto para a Noruega?
 
-Sim. A Noruega faz parte do Espaço Schengen, então o visto necessário é o **visto Schengen**, emitido pelo Consulado da Noruega no Brasil.
-
-**Como solicitar:**
-
-O pedido é feito pelo [VFS Global](https://visa.vfsglobal.com/bra/pt/nor/), empresa credenciada pelo consulado norueguês. Há postos em São Paulo, Rio de Janeiro, Brasília, Recife e Porto Alegre.
-
-- Custo: taxa consular de aprox. EUR 90 (cerca de R$ 540) mais taxa de serviço do VFS Global de aprox. EUR 25 (cerca de R$ 150)
-- Prazo: em média 15 dias úteis, podendo chegar a 30 em períodos de alta demanda. Solicite com pelo menos 6 semanas de antecedência
-- Validade: geralmente 30 dias a 3 meses
+Não. Brasileiros são isentos de visto para turismo na Noruega e no Espaço Schengen por até 90 dias a cada 180 dias, com passaporte válido por pelo menos 3 meses além da data de retorno.
 
 **Documentos necessários:**
 - Passaporte válido por pelo menos 3 meses além da data de retorno
-- Formulário de solicitação preenchido e assinado
-- Foto padrão Schengen
-- Comprovante de hospedagem em todos os países do roteiro
 - Passagem aérea de ida e volta
-- Seguro viagem com cobertura mínima de EUR 30.000 (obrigatório para visto Schengen)
-- Extratos bancários dos últimos 3 meses
-- Comprovante de emprego ou renda
-- Carta de intenção com detalhamento do roteiro
+- Comprovante de hospedagem
 
-**Dica importante:** o seguro viagem não é opcional para o visto Schengen. É requisito. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia, e já tenha o comprovante em mãos antes de agendar o consulado.
+**Dica importante:** o seguro viagem não é exigido por lei para brasileiros que entram na Noruega como turistas, mas é fortemente recomendado: o sistema de saúde norueguês é caro para não residentes, e uma consulta ou internação sem seguro pode custar milhares de euros. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia.
 
 ## Quando ir à Noruega
 
@@ -53,7 +39,7 @@ A Noruega oferece experiências completamente diferentes dependendo da época. N
 
 **Para ver a aurora boreal:** você precisa estar acima do Círculo Ártico (Tromsø é a base ideal) entre setembro e março, com noites escuras e céu limpo. Não há garantia, mas Tromsø tem uma das maiores taxas de avistamento do mundo.
 
-**Para ver o sol da meia-noite:** no verão norueguês (junho e julho), o sol não se põe por semanas no norte do país. É uma experiência única, mas leve máscara de dormir.
+**Para ver o sol da meia-noite:** de maio a julho, o sol não se põe por semanas no norte do país. É uma experiência única, mas leve máscara de dormir.
 
 ## Quanto custa ir à Noruega
 
@@ -86,7 +72,7 @@ A capital é menor e mais tranquila do que muitos imaginam, mas tem museus excel
 
 ![Vista panorâmica de Oslo à beira-mar ao entardecer](https://images.unsplash.com/photo-1433757741270-94a3bcadc2f3?w=1200&q=80)
 
-- **Museu Viking:** barcos reais de mais de mil anos, conservados de forma impressionante
+- **Museu Viking:** fechado para reforma até novembro de 2027, quando reabre como Museu da Era Viking. Verifique o status antes de incluir no roteiro
 - **Museu Fram:** o navio que chegou mais perto do Polo Norte e do Polo Sul na história
 - **Operahuset:** o prédio da Ópera no porto, com o telhado inclinado que os visitantes caminham. Entrada gratuita no telhado
 - **Aker Brygge e Tjuvholmen:** píer reformado com restaurantes, galerias e o novo Museu Astrup Fearnley de Arte Moderna
@@ -109,19 +95,19 @@ Os fjords são a principal razão para ir à Noruega. Braços de mar que cortam 
 Os mais famosos e mais acessíveis a partir de Bergen:
 
 - **Nærøyfjord:** Patrimônio da Humanidade, cruzeiro saindo de Flåm. O trecho entre Gudvangen e Flåm é considerado um dos mais bonitos do mundo
-- **Hardangerfjord:** o maior da Noruega em termos de área, famoso pelas macieiras em flor na primavera
+- **Hardangerfjord:** o segundo maior fjord da Noruega (o maior é o Sognefjord), famoso pelas macieiras em flor na primavera
 - **Geirangerfjord:** o mais fotografado. Cachoeiras das Sete Irmãs e a Cachoeira do Véu de Noiva caem direto na água do fjord
 
 **Como fazer:** o roteiro mais clássico é o Norway in a Nutshell, um circuito que combina trem panorâmico, barco pelo Nærøyfjord e ônibus pelas montanhas. Pode ser feito em um dia saindo de Bergen ou Oslo.
 
 ### Tromsø e o Ártico
 
-Para quem vai atrás da aurora boreal ou do sol da meia-noite, Tromsø é a base certa. Fica a 2h de voo de Oslo ou Bergen e tem estrutura turística consolidada.
+Para quem vai atrás da aurora boreal ou do sol da meia-noite, Tromsø é a base certa. Fica a aprox. 2h de voo de Oslo e aprox. 2h30 de Bergen, e tem estrutura turística consolidada.
 
 - Safáris de aurora com guia local (EUR 80 a EUR 150 por pessoa)
-- Museu da Aurora Boreal (Nordlyspanorma)
+- Planetário da Aurora Boreal (Nordlysplanetariet)
 - Passeios de trenó puxado por cães de trenó
-- Rena de Sami (povo indígena norueguês)
+- Rena com os Sami (povo indígena do norte da Escandinávia, presente também na Noruega)
 
 ## Gastronomia norueguesa
 
@@ -142,11 +128,11 @@ Para economizar: os supermercados noruegueses têm boa comida pronta, sanduíche
 
 - **Moeda:** coroa norueguesa (NOK). Cartão de crédito é aceito em praticamente tudo, inclusive em barracas de mercado. Pode levar pouco dinheiro em espécie
 - **Internet:** chips de dados locais disponíveis nos aeroportos. As redes Telia e Telenor têm boa cobertura, incluindo nas áreas remotas dos fjords
-- **Seguro viagem:** obrigatório para o visto Schengen com cobertura mínima de EUR 30.000. Para a Noruega, recomendamos cobertura de EUR 100.000 por causa do custo do sistema de saúde local. [Compare no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
+- **Seguro viagem:** não é exigido por lei para o turista brasileiro isento de visto, mas é essencial. Recomendamos cobertura de EUR 100.000 por causa do custo do sistema de saúde local. [Compare no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
 - **Transporte:** o país inteiro tem boa infraestrutura de trens, ônibus e balsas. O app Entur reúne todos os transportes públicos do país em um só lugar
 - **Idioma:** norueguês, mas praticamente todos falam inglês muito bem, inclusive crianças. Não vai ter barreiras de comunicação
 - **Tomada:** padrão europeu (tipo F, dois pinos redondos). Leve um adaptador universal
-- **Privacidade na natureza:** as trilhas norueguesas têm a regra do friluftsliv, que permite acampar em qualquer área natural por até dois dias sem permissão. Uma liberdade que não existe no Brasil
+- **Privacidade na natureza:** as trilhas norueguesas têm a regra do friluftsliv, que permite acampar em terreno não cultivado (fora de áreas de plantio ou propriedade privada cercada), a pelo menos 150 metros de casas habitadas, por até duas noites no mesmo local. Uma liberdade que não existe no Brasil
 
 ## Vale a pena?
 

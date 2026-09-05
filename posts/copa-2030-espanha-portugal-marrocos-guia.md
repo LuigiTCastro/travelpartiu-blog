@@ -1,7 +1,7 @@
 ---
-titulo: "Copa do Mundo 2030: o que já se sabe sobre a edição em três continentes"
+titulo: "Copa do Mundo 2030: o que já se sabe até agora"
 slug: "copa-2030-espanha-portugal-marrocos-guia"
-descricao: "Copa 2030 será sediada em Espanha, Portugal e Marrocos, com jogos centenários na Argentina, Uruguai e Paraguai. Veja o que já está confirmado e como começar a se planejar agora."
+descricao: "Copa 2030 será sediada em Espanha, Portugal e Marrocos, com jogos centenários na Argentina, Uruguai e Paraguai. Veja o que já está confirmado."
 categoria: "Planejamento"
 destino: ""
 data: "2026-07-29"
@@ -33,7 +33,7 @@ Para marcar o centenário, a Fifa confirmou uma partida de abertura simbólica n
 |------|--------------------|-----------------------|
 | Espanha | Madrid, Barcelona, Sevilha | Santiago Bernabéu, Camp Nou (reforma), La Cartuja |
 | Portugal | Lisboa, Porto | Estádio da Luz, Estádio do Dragão |
-| Marrocos | Casablanca, Rabat, Tânger | Grand Stade de Casablanca (novo, em construção) |
+| Marrocos | Casablanca, Rabat, Tânger | Grand Stade Hassan II (novo, em construção, a aprox. 40 km de Casablanca) |
 | Uruguai | Montevidéu | Estádio Centenário (jogo de abertura) |
 | Argentina | Buenos Aires | Estádio Monumental |
 | Paraguai | Assunção | Estádio La Nueva Olla |
@@ -48,9 +48,9 @@ Parece cedo, mas o planejamento com antecedência é justamente o que garante um
 
 **Hospedagem:** cidades como Madrid e Lisboa já têm forte demanda turística fora de qualquer Copa. Durante o Mundial, a procura dispara e os preços acompanham. Reservar com cancelamento grátis assim que o calendário for definido é a melhor estratégia.
 
-**Visto:** brasileiros não precisam de visto para turismo na Espanha e Portugal por até 90 dias (Espaço Schengen), nem para Marrocos em estadias de até 90 dias. Isso facilita bastante o planejamento em comparação com a Copa nos EUA, que exigiu visto B1/B2.
+**Visto:** brasileiros não precisam de visto para turismo na Espanha e Portugal por até 90 dias em cada período de 180 dias (Espaço Schengen), nem para Marrocos em estadias de até 90 dias. Isso facilita bastante o planejamento em comparação com a Copa nos EUA, que exigiu visto B1/B2.
 
-**Passaporte:** verifique a validade com bastante antecedência. Para viagens à Europa, o passaporte precisa ter pelo menos 3 meses de validade além da data de retorno.
+**Passaporte:** verifique a validade com bastante antecedência. Para viagens à Europa, o passaporte precisa ter pelo menos 3 meses de validade além da data de retorno e ter sido emitido há menos de 10 anos.
 
 ## Quanto pode custar
 
@@ -58,7 +58,7 @@ Parece cedo, mas o planejamento com antecedência é justamente o que garante um
 
 | Item | Fora da Copa (alta temporada) | Estimativa durante a Copa 2030 |
 |------|-------------------------------|----------------------------------|
-| Passagem Brasil–Europa | R$ 4.000 a R$ 7.000 | R$ 6.000 a R$ 12.000 |
+| Passagem Brasil-Europa | R$ 4.000 a R$ 7.000 | R$ 6.000 a R$ 12.000 |
 | Hospedagem/noite (cidade-sede) | R$ 250 a R$ 600 | R$ 500 a R$ 1.500+ |
 | Ingresso fase de grupos | Não se aplica | Estimativa: USD 100 a USD 400 |
 | Ingresso fase final | Não se aplica | Estimativa: USD 1.000 a USD 5.000+ |
@@ -68,10 +68,10 @@ Esses números são estimativas baseadas em Copas anteriores e podem variar bast
 ## Como começar a se organizar
 
 - **Abra uma reserva de viagem:** comece a guardar dinheiro específico para a Copa 2030 com 3 a 4 anos de antecedência transforma um gasto pesado em parcelas menores e indolores
-- **Acompanhe os canais oficiais da Fifa:** o sorteio de grupos e o calendário definitivo costumam sair cerca de 1 ano antes do torneio
+- **Acompanhe os canais oficiais da Fifa:** o sorteio de grupos e o calendário definitivo costumam sair aprox. 6 a 8 meses antes do torneio
 - **Considere as cidades menos óbvias:** Sevilha, Porto e Tânger tendem a ter preços de hospedagem mais baixos que Madrid, Lisboa e Barcelona, mesmo durante o evento
 - **Verifique o passaporte:** já cheque a validade e planeje a renovação se for vencer entre 2029 e 2030
-- **Seguro viagem:** para Europa, cobertura mínima de EUR 30.000 é obrigatória pelo visto Schengen (embora turistas brasileiros não precisem de visto prévio, o seguro segue recomendado para qualquer viagem internacional). [Cote com antecedência no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
+- **Seguro viagem:** não há exigência legal de seguro para o turista brasileiro, que é isento de visto Schengen. A cobertura mínima de EUR 30.000 é requisito de quem solicita o visto (outras nacionalidades). Mesmo assim, o seguro é fortemente recomendado pelo custo médico no exterior. [Cote com antecedência no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia
 
 ## Vale a pena começar a planejar já?
 

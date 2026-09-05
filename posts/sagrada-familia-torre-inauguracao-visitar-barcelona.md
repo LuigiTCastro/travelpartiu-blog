@@ -14,34 +14,34 @@ destaque: true
 
 No dia 10 de junho de 2026, 100 anos após a morte de Antoni Gaudí, o Papa Leão XIV inaugurou a Torre de Jesus Cristo da Sagrada Família em Barcelona. Com 172,5 metros, ela se tornou oficialmente a **basílica mais alta do mundo**.
 
-Drones desenharam o rosto de Gaudí no céu. 8.000 pessoas estavam dentro do templo. E a silhueta de Barcelona mudou para sempre.
+Drones desenharam o rosto de Gaudí no céu. Aprox. 8.000 pessoas participaram da cerimônia, dentro e nos arredores do templo. E a silhueta de Barcelona mudou para sempre.
 
-Se você sempre teve Barcelona no radar, **esse momento chegou.** A previsão é de alta de até 15% no fluxo de visitantes nos próximos 12 meses. Vale ir antes do fim de 2026, enquanto o entusiasmo ainda não virou caos.
+Se você sempre teve Barcelona no radar, **esse momento chegou.** Espera-se aumento relevante no fluxo de visitantes nos próximos meses. Vale ir antes do fim de 2026, enquanto o entusiasmo ainda não virou caos.
 
 ## Como visitar a Sagrada Família
 
 ### Ingresso: compre online, sem exceção
 
-Com mais de 4 milhões de visitantes por ano, chegar sem ingresso significa fila de 3 a 4 horas, ou não entrar. Compre pelo site oficial com no mínimo 7 a 10 dias de antecedência (2 a 4 semanas no verão europeu).
+Com quase 5 milhões de visitantes por ano, sem ingresso pode significar fila longa ou não conseguir entrar. Recomendamos comprar pelo site oficial com a maior antecedência possível.
 
 **Opções de ingresso:**
-- Entrada básica: EUR 26-36
-- Com acesso às torres (vale muito): EUR 40-56
-- Visita guiada completa com cripta: EUR 60-85
+- Entrada básica: aprox. EUR 26
+- Com acesso às torres: aprox. EUR 36 (aprox. EUR 40 com visita guiada)
+- A cripta já está incluída em qualquer ingresso
 
 ### Melhor horário para entrar
 
-**9h da manhã** ou **entre 16h e 18h**. A luz natural atravessa os vitrais de formas completamente diferentes dependendo da hora: tons de verde e azul pela manhã, laranja e vermelho à tarde. Evite das 11h às 14h, quando os grupos chegam em bloco.
+**9h da manhã** ou **entre 16h e 18h** (aos domingos a abertura é às 10h30). A luz natural atravessa os vitrais de formas completamente diferentes dependendo da hora: tons de verde e azul pela manhã, laranja e vermelho à tarde. Evite das 11h às 14h, quando os grupos chegam em bloco.
 
-Reserve ao menos 2h30 se for subir nas torres.
+Se for subir nas torres, reserve um tempo extra na visita.
 
 ## O que mais fazer em Barcelona
 
-**Park Güell** é parada obrigatória, a 20 minutos da basílica. A área monumental é paga e com horário marcado (EUR 13), compre online. A parte ao redor é gratuita e tem ótima vista da cidade.
+**Park Güell** é parada obrigatória, a aprox. 25-30 min de metrô da basílica (ou 30-35 min a pé, com subida). A área monumental é paga e com horário marcado (aprox. EUR 18, confirme o valor exato em parkguellonline.cat), compre online. A parte ao redor é gratuita e tem ótima vista da cidade.
 
 Na **Passeig de Gràcia**, a caminho de qualquer ponto do centro, ficam a Casa Batlló e a Casa Milà, também de Gaudí. Vale pelo menos passar na calçada e olhar as fachadas.
 
-Para comer e passear: o **Bairro Gótico** tem as melhores ruas para se perder, e o **El Born** concentra a gastronomia mais interessante da cidade. A praia da **Barceloneta** fica a 30 minutos a pé do centro.
+Para comer e passear: o **Bairro Gótico** tem as melhores ruas para se perder, e o **El Born** concentra a gastronomia mais interessante da cidade. A praia da **Barceloneta** fica a aprox. 15-20 min a pé do centro.
 
 ## Quando ir
 
@@ -64,14 +64,14 @@ Para comer e passear: o **Bairro Gótico** tem as melhores ruas para se perder, 
 | Alimentação (R$ 300-400/dia) | R$ 1.500 | R$ 2.000 |
 | Ingressos (Sagrada Família + Park Güell) | R$ 250 | R$ 450 |
 | Transporte local | R$ 200 | R$ 350 |
-| **Total** | **~R$ 6.700** | **~R$ 10.800** |
+| **Total** | **aprox. R$ 6.700** | **aprox. R$ 10.800** |
 
-*Hospedagem econômica: hostel compartilhado (R$ 250/noite). Intermediário: hotel 3 estrelas no centro (R$ 500/noite). Ingressos: entrada básica Sagrada Família EUR 26 + Park Güell EUR 13.*
+*Hospedagem econômica: hostel compartilhado (R$ 250/noite). Intermediário: hotel 3 estrelas no centro (R$ 500/noite). Ingressos: entrada básica Sagrada Família aprox. EUR 26 + Park Güell aprox. EUR 18.*
 
 ## Dicas rápidas
 
-- **Metrô:** compre a T-Casual (10 viagens, EUR 12,55). É muito mais barato que aplicativo.
+- **Metrô:** compre a T-Casual (10 viagens, aprox. EUR 13). É muito mais barato que aplicativo.
 - **Pickpockets:** Las Ramblas e o metrô são conhecidos por furtos. Bolsa cruzada na frente, celular no bolso interno.
 - **Jantar:** ninguém come antes das 21h em Barcelona. Restaurante vazio às 19h é completamente normal.
-- **A pé:** de Las Ramblas até a Sagrada Família são 30 minutos caminhando, passando pela Passeig de Gràcia.
+- **A pé:** de Las Ramblas até a Sagrada Família são aprox. 40-50 minutos caminhando (ou pegue o metrô), passando pela Passeig de Gràcia.
 - **Catalão:** um "bon dia" nos restaurantes locais garante um sorriso. O espanhol é amplamente falado, sem problema.

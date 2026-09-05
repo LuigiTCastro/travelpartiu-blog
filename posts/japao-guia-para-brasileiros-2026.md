@@ -17,26 +17,13 @@ Para os brasileiros que assistiram ao jogo e ficaram curiosos sobre aquele povo 
 
 ## Brasileiros precisam de visto para o Japão?
 
-Sim. O Japão exige visto para brasileiros desde 2020, quando suspendeu a isenção que existia antes. O processo é feito pelo Consulado Geral do Japão ou pelo Itaipú, entidade credenciada.
+Não. Desde 30 de setembro de 2023, brasileiros com passaporte eletrônico (com chip, emitido a partir de 2011) estão isentos de visto para turismo, negócios ou visita a familiares no Japão, por até 90 dias. Essa isenção, que venceria em 29 de setembro de 2026, foi prorrogada até 29 de setembro de 2029 por acordo entre os governos do Brasil e do Japão, publicado no Diário Oficial da União em 29/07/2026.
 
-**Como solicitar:**
-
-- Acesse o site do Consulado Geral do Japão no Brasil (há unidades em São Paulo, Rio de Janeiro, Curitiba, Recife e Porto Alegre)
-- O visto de turismo é gratuito
-- Prazo de análise: de 5 a 10 dias úteis
-- Validade: geralmente 15 dias a 3 meses, dependendo do perfil do solicitante
-
-**Documentos necessários:**
-- Passaporte válido
-- Formulário de solicitação preenchido
-- Foto recente
-- Comprovante de residência
-- Comprovante de renda ou extrato bancário
-- Itinerário da viagem
-- Reserva de hotel (mesmo que provisional)
-- Comprovante de vínculo empregatício ou declaração de IR
-
-O processo é mais simples do que parece. A maioria dos pedidos de turistas brasileiros com documentação completa é aprovada sem entrevista.
+**Documentos necessários para entrar:**
+- Passaporte eletrônico (com chip, emitido a partir de 2011), com validade mínima recomendada de 6 meses. Passaporte de emergência, sem chip, não é aceito
+- Passagem de volta
+- Comprovante de acomodação
+- Comprovação de recursos financeiros suficientes para a estadia
 
 ## Quando ir ao Japão
 
@@ -62,9 +49,9 @@ Estimativa para **10 dias no Japão**, saindo de São Paulo:
 | Passagem aérea (ida e volta) | R$ 5.500 | R$ 9.000 |
 | Hospedagem (10 noites) | R$ 3.000 | R$ 7.000 |
 | Alimentação (R$ 100 a 250/dia) | R$ 1.000 | R$ 2.500 |
-| Transporte local (JR Pass + metrô) | R$ 1.200 | R$ 1.800 |
+| Transporte local (JR Pass + metrô) | aprox. R$ 2.000 | aprox. R$ 2.600 |
 | Atrações e passeios | R$ 500 | R$ 1.500 |
-| **Total estimado** | **aprox. R$ 11.200** | **aprox. R$ 21.800** |
+| **Total estimado** | **aprox. R$ 12.000** | **aprox. R$ 22.600** |
 
 *Econômico: cápsulas ou hostéis bem avaliados (aprox. R$ 150 a R$ 200/noite), refeições em restaurantes populares e conbinis. Intermediário: hotéis 3 estrelas com café da manhã e refeições em restaurantes tradicionais.*
 
@@ -72,13 +59,13 @@ Estimativa para **10 dias no Japão**, saindo de São Paulo:
 
 ## O JR Pass vale a pena?
 
-O Japan Rail Pass é um passe de trem que dá acesso ilimitado à malha ferroviária da JR (incluindo os trens-bala Shinkansen) por 7, 14 ou 21 dias.
+O Japan Rail Pass é um passe de trem que dá acesso à malha ferroviária da JR por 7, 14 ou 21 dias, incluindo os trens-bala Shinkansen. Uma ressalva importante: o passe Ordinary não cobre os trens Nozomi e Mizuho, os Shinkansen mais rápidos da linha Tóquio-Kioto-Osaka. Para essa rota é preciso usar Hikari ou Kodama (um pouco mais lentos) ou pagar suplemento no Nozomi.
 
-**Vale quando:** você vai a mais de uma cidade, especialmente no roteiro clássico Tóquio, Kioto e Osaka. O trajeto Tóquio a Kioto de Shinkansen custa aprox. R$ 700 avulso. Com o JR Pass de 7 dias (aprox. R$ 1.200), já vale a pena se você fizer dois ou três trajetos longos.
+**Vale quando:** você vai a mais de uma cidade, especialmente no roteiro clássico Tóquio, Kioto e Osaka. O trajeto Tóquio a Kioto de Shinkansen custa aprox. R$ 500 avulso. Com o JR Pass de 7 dias (aprox. R$ 1.700 a R$ 2.000), são necessários mais de dois ou três trajetos longos para compensar frente aos bilhetes avulsos.
 
 **Não vale quando:** você vai ficar só em Tóquio ou só em Osaka. Nesse caso, use os bilhetes de metrô ou IC Card (cartão recarregável aceito em todo o país).
 
-**Como comprar:** o JR Pass precisa ser comprado fora do Japão, antes de embarcar. Está disponível em agências online autorizadas.
+**Como comprar:** a compra antecipada em agências online autorizadas, antes de embarcar, é a opção mais recomendada para garantir preço e disponibilidade. Desde outubro de 2023 também é possível trocar o passe em balcões de estações JR selecionadas dentro do Japão.
 
 ## Roteiro básico de 10 dias
 
@@ -88,13 +75,13 @@ A capital japonesa é uma cidade de contrastes: arranha-céus em Shinjuku, templ
 
 - **Shinjuku:** arranha-céus, parque Gyoen, vida noturna
 - **Asakusa:** templo Senso-ji, mercado Nakamise, vista do Skytree
-- **Shibuya:** cruzamento mais fotografado do mundo, centro comercial
+- **Shibuya:** um dos cruzamentos mais movimentados do mundo, centro comercial
 - **Akihabara:** tecnologia, anime, cultura pop
 - **Harajuku e Omotesandô:** moda, gastronomia e o templo Meiji
 
 ### Dias 5 e 6: Hakone ou Nikko (excursão de um dia)
 
-Hakone fica a 90 minutos de Tóquio e oferece vista do Monte Fuji (quando o clima permite), lago Ashi e fontes termais. Nikko tem mausoléus históricos e natureza exuberante.
+Hakone fica a aprox. 90 minutos de Tóquio pelo trem expresso direto (Romance Car); outras opções levam aprox. 2 horas ou mais. A região oferece vista do Monte Fuji (quando o clima permite), lago Ashi e fontes termais. Nikko tem mausoléus históricos e natureza exuberante.
 
 ### Dias 7 e 8: Kioto
 

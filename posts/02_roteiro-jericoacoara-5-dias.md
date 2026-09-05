@@ -14,7 +14,7 @@ destaque: true
 
 Jericoacoara é um daqueles destinos que parece bom demais pra ser verdade, mas é real. A vila no litoral oeste do Ceará combina praias de água cristalina, dunas impressionantes e um pôr do sol que virou atração turística por conta própria.
 
-A melhor época para ir é entre **julho e janeiro**, quando praticamente não chove e o vento é ideal para kitesurf. Mas Jeri recebe bem visitantes o ano inteiro.
+A melhor época para ir é entre **julho e dezembro**, quando praticamente não chove e o vento é ideal para kitesurf (em janeiro as chuvas já começam a aumentar). Mas Jeri recebe bem visitantes o ano inteiro.
 
 Neste roteiro, organizamos 5 dias completos com tudo o que você precisa: o que fazer em cada dia, onde ficar, quanto gastar e dicas práticas.
 
@@ -39,7 +39,7 @@ Se sobrar tempo, passe pela **Lagoa Azul** na volta. É menor mas igualmente bon
 
 ## Dia 3: Pedra Furada e Duna do Pôr do Sol
 
-Pela manhã, faça a caminhada até a **Pedra Furada**, o cartão-postal de Jeri. O percurso pela praia leva cerca de 40 minutos e a vista compensa cada passo. O melhor horário é pela manhã, quando a maré está baixa.
+Faça a caminhada até a **Pedra Furada**, o cartão-postal de Jeri. O percurso pela praia leva cerca de 40 minutos e a vista compensa cada passo. O fator que importa é a maré baixa, que muda de horário todo dia. Consulte a tábua de marés antes de ir; costuma ser de manhã, mas pode ser à tarde.
 
 À tarde, volte à Duna do Pôr do Sol. Sim, vale ir mais de uma vez. Cada dia o céu é diferente.
 
@@ -47,13 +47,13 @@ Pela manhã, faça a caminhada até a **Pedra Furada**, o cartão-postal de Jeri
 
 ## Dia 4: Praia do Preá e passeio de buggy
 
-O quarto dia é de aventura. Pegue um **passeio de buggy** que percorre as praias e dunas ao redor de Jeri. O roteiro clássico inclui a **Praia do Preá** (capital do kitesurf), a **Árvore da Preguiça** e a **Pedra do Furo**.
+O quarto dia é de aventura. Pegue um **passeio de buggy** que percorre as praias e dunas ao redor de Jeri. O roteiro clássico inclui a **Praia do Preá** (capital do kitesurf), a **Árvore da Preguiça** e o **Buraco Azul**.
 
 Se curte esportes, o Preá oferece aulas de kitesurf para iniciantes.
 
 **Quanto custa:**
-- Passeio de buggy (4 pessoas): R$ 250-350 total
-- Aula de kitesurf: a partir de R$ 200 por pessoa
+- Passeio de buggy (4 pessoas): aprox. R$ 300-500 total (varia por operador e temporada)
+- Aula de kitesurf: avulsa a partir de aprox. R$ 150-200/hora em escolas mais simples; pacotes de 3h em escolas certificadas custam aprox. R$ 900 ou mais
 
 ## Dia 5: Manhã livre e retorno
 
@@ -78,12 +78,13 @@ No último dia, aproveite a manhã para fazer o que ficou pendente: comprar arte
 | Hospedagem (5 noites, faixa média) | R$ 1.000-1.750 |
 | Alimentação | R$ 500-800 |
 | Passeios | R$ 300-500 |
-| **Total estimado** | **R$ 2.550-4.500** |
+| Taxa de Turismo Sustentável (TTS, até 10 dias) | R$ 41,50 |
+| **Total estimado** | **aprox. R$ 2.600-4.550** |
 
 ## Dicas práticas
 
-- **Como chegar:** Voe para Fortaleza (FOR) e pegue transfer até Jeri. Existem opções de jardineira (mais barata) e 4x4 (mais rápida).
-- **Dinheiro:** Leve dinheiro em espécie. Muitos lugares não aceitam cartão e não há caixas eletrônicos na vila.
+- **Como chegar:** Voe para Fortaleza (FOR) e pegue transfer até Jeri (opções de jardineira, mais barata, ou 4x4, mais rápida), ou voe direto para o Aeroporto de Jericoacoara (JJD), em Cruz, com voos diretos de Latam e Gol saindo de Guarulhos e da Azul saindo de Confins (sazonal). O voo direto costuma custar mais, mas elimina o transfer terrestre de 5h ou mais.
+- **Dinheiro:** Leve dinheiro em espécie. Há apenas 1-2 caixas eletrônicos na vila (um dentro de supermercado e um correspondente bancário nos Correios), nem sempre confiáveis, e muitos lugares não aceitam cartão.
 - **Internet:** O Wi-Fi das pousadas funciona, mas não conte com sinal de celular estável.
 - **O que levar:** Protetor solar, repelente, roupas leves e uma mochila impermeável para os passeios de barco.
 - **Melhor época:** Julho a janeiro (seca). Evite março e abril (chuvas fortes).

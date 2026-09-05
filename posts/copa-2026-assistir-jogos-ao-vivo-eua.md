@@ -1,7 +1,7 @@
 ---
-titulo: "Copa do Mundo 2026: como assistir jogos ao vivo nos EUA"
+titulo: "Copa do Mundo 2026 nos EUA: o que aprendemos para viajar"
 slug: "copa-2026-assistir-jogos-ao-vivo-eua"
-descricao: "Copa 2026 nos EUA, Canadá e México. Guia para ver jogos ao vivo: ingressos, cidades-sede, hospedagem e quanto custa para ir."
+descricao: "Copa 2026 nos EUA, Canadá e México terminou, mas o roteiro pelas cidades-sede continua valendo. Guia de cidades, hospedagem e documentos para viajar aos EUA."
 categoria: "Destinos"
 destino: "Estados Unidos"
 data: "2026-06-27"
@@ -12,9 +12,9 @@ pais: "Estados Unidos"
 destaque: true
 ---
 
-A Copa do Mundo 2026 entrou para a história antes mesmo de terminar. Com 48 seleções pela primeira vez e jogos em três países, é o maior torneio de futebol de todos os tempos. E a fase mais importante ainda está por vir: os 16 avos de final, oitavas, quartas, semifinais e a grande final se estendem até 19 de julho.
+A Copa do Mundo 2026 entrou para a história: com 48 seleções e jogos em três países (Estados Unidos, México e Canadá), foi o maior torneio de futebol já realizado, com mais de 6,8 milhões de espectadores nos estádios. A grande final aconteceu em 19 de julho de 2026, no MetLife Stadium, em East Rutherford (NJ), com vitória da Espanha sobre a Argentina por 1 a 0 na prorrogação.
 
-Se você está pensando em ir ao vivo, ainda dá tempo.
+O apito final já foi dado, mas boa parte do que a Copa deixou nos Estados Unidos continua valendo para quem quer viajar: os estádios seguem lá, os bairros ao redor viraram roteiro turístico e a logística de voo, documento e deslocamento nas cidades-sede serve para qualquer viagem aos EUA. Este guia reúne o que a Copa 2026 deixou de útil para planejar sua próxima viagem a Nova York, Los Angeles, Miami, Dallas e outras sedes americanas.
 
 ## As cidades-sede nos EUA
 
@@ -22,49 +22,34 @@ Os Estados Unidos hospedam 11 das 16 cidades-sede da Copa 2026. As principais pa
 
 | Cidade | Estádio | Capacidade | Destaque |
 |--------|---------|------------|----------|
-| Nova York/NJ | MetLife Stadium | 82.500 | Final + Semifinal |
-| Los Angeles | SoFi Stadium | 70.000 | Quartas + Grupos |
-| Dallas | AT&T Stadium | 80.000 | Semifinal |
+| Nova York/NJ | MetLife Stadium | 82.500 | Final |
+| Los Angeles | SoFi Stadium | aprox. 69.700 | Quartas + Grupos |
+| Dallas | AT&T Stadium | aprox. 70.600 | Semifinal + Grupos |
 | Miami | Hard Rock Stadium | 65.000 | Quartas + Grupos |
-| Atlanta | Mercedes-Benz Stadium | 71.000 | Grupos |
+| Atlanta | Mercedes-Benz Stadium | aprox. 68.200 | Semifinal + Grupos |
 | Seattle | Lumen Field | 69.000 | Grupos |
 
-**A final será em 19 de julho de 2026 no MetLife Stadium**, em East Rutherford, New Jersey, na Grande Nova York.
+**A final foi disputada em 19 de julho de 2026 no MetLife Stadium**, em East Rutherford, New Jersey, na Grande Nova York. A Espanha venceu a Argentina por 1 a 0, na prorrogação.
 
 Canadá (Toronto e Vancouver) e México (Cidade do México, Guadalajara e Monterrey) completam o mapa de sedes.
 
-## Como comprar ingressos agora
+## Como foi comprar ingresso (referência histórica)
 
-A maioria dos ingressos de grupos já foi utilizada, mas a fase eliminatória tem novos lotes disponíveis.
+Durante o torneio, os ingressos de grupos esgotavam rápido pelo site oficial FIFA (tickets.fifa.com) e pelo mercado secundário (StubHub, SeatGeek, Viagogo). Os preços variavam muito conforme o estádio e a fase, indo de aprox. USD 449 nos 16 avos em estádios menos disputados a mais de USD 15.000 na final em MetLife. Essa informação não tem mais valor prático (o torneio terminou), mas fica como referência de quanto custa acompanhar um Mundial ao vivo nos EUA, caso você planeje a Copa de 2030.
 
-**Site oficial FIFA:** tickets.fifa.com. Verifique disponibilidade para cada jogo individualmente. Packages de hospitalidade oficial ainda têm vagas.
+## Quanto custava a viagem (referência histórica)
 
-**Mercado secundário:** StubHub, SeatGeek e Viagogo têm ingressos para todos os jogos. Os preços variam muito conforme o estádio e o jogo:
-
-| Fase | Estádio menos disputado | Estádios top (NYC, Miami, LA) |
-|------|------------------------|-------------------------------|
-| 16 avos de final | A partir de USD 449 | USD 1.000 a USD 3.500 |
-| Oitavas de final | USD 600-900 | USD 1.500-4.000+ |
-| Quartas de final | USD 900-1.500 | USD 2.000-5.000+ |
-| Semifinal | USD 1.500+ | USD 3.000-7.000+ |
-| Final (MetLife, NJ) | USD 3.000+ | USD 5.000-15.000+ |
-
-**Dica prática:** estádios como Arrowhead (Kansas City) e Mercedes-Benz (Atlanta) costumam ter os ingressos mais baratos. MetLife (NY), Hard Rock (Miami) e SoFi (LA) são os mais caros.
-
-## Quanto custa a viagem
-
-Estimativa para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
+Estimativa de junho de 2026 para **7 dias nos EUA com 2 jogos**, saindo do Brasil:
 
 | Item | Econômico | Intermediário |
 |------|-----------|---------------|
 | Passagem aérea (ida e volta) | R$ 4.000 | R$ 7.000 |
 | Hospedagem (7 noites) | R$ 2.800 | R$ 6.500 |
-| Ingressos (2 jogos, 16 avos, mercado sec.) | R$ 5.400 | R$ 14.000 |
-| Alimentação (~R$ 200-400/dia) | R$ 1.400 | R$ 2.800 |
+| Alimentação (aprox. R$ 200-400/dia) | R$ 1.400 | R$ 2.800 |
 | Transporte local | R$ 500 | R$ 1.000 |
-| **Total estimado** | **~R$ 14.100** | **~R$ 31.300** |
+| **Total sem ingresso** | **aprox. R$ 8.700** | **aprox. R$ 17.300** |
 
-*Econômico: hostel ou Airbnb básico (aprox. $65/noite) + 2 ingressos dos 16 avos em estádio menos concorrido como Kansas City (aprox. $450 cada). Intermediário: hotel 3 estrelas (aprox. $150/noite) + 2 ingressos em MetLife ou SoFi (aprox. $1.200 cada). Sem ingressos, 7 dias nos EUA ficam na faixa de R$ 8.700 a R$ 17.300. Preços consultados no SeatGeek em 27/06/2026.*
+*Sem os jogos, uma viagem de 7 dias às mesmas cidades (Nova York, Los Angeles, Miami, Dallas) segue nessa faixa de custo hoje, com hospedagem, alimentação e transporte local. Preços de referência de junho de 2026.*
 
 ## Dicas por cidade
 
@@ -78,17 +63,17 @@ Cidade espalhada, carro é quase obrigatório. O SoFi Stadium fica em Inglewood,
 Hard Rock Stadium fica em Miami Gardens, a 30 minutos de Miami Beach. Uber funciona bem. Miami tem excelente conexão direta com o Brasil (voos frequentes da Gol, Latam e American Airlines).
 
 ### Dallas
-Julho em Dallas significa calor intenso (acima de 40°C). Hidratação e roupas leves são essenciais. O AT&T Stadium tem ar-condicionado, mas os arredores são muito quentes.
+Julho em Dallas significa calor intenso, com máximas em torno de 35°C e picos acima de 40°C nos dias mais quentes. Hidratação e roupas leves são essenciais. O AT&T Stadium tem ar-condicionado, mas os arredores são muito quentes.
 
 ## Logística e documentos
 
 **Visto:** brasileiros precisam de visto B1/B2 para entrar nos EUA. Não existe ESTA para brasileiros. Se ainda não tem visto, leia nosso [guia completo: visto americano para brasileiros, passo a passo](/blog/visto-americano-para-brasileiros-2026).
 
-**Passaporte:** válido por pelo menos 6 meses além da data de retorno.
+**Passaporte:** válido durante toda a estadia. O Brasil está no "Six Month Club" dos EUA, então não é exigido 6 meses de validade extra além da viagem, mas manter alguma folga é sempre mais seguro.
 
-**Seguro viagem:** obrigatório por bom senso. Emergência médica nos EUA pode custar dezenas de milhares de dólares. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog) — a partir de R$ 10/dia, cotação em 2 minutos.
+**Seguro viagem:** fortemente recomendado. Emergência médica nos EUA pode custar dezenas de milhares de dólares. [Cote agora no Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), a partir de R$ 10/dia, cotação em 2 minutos.
 
-**Apps úteis:** Google Maps (funciona bem nos EUA), Uber, Transit (metrô e ônibus), e o app oficial FIFA 2026.
+**Apps úteis:** Google Maps (funciona bem nos EUA), Uber, Transit (metrô e ônibus).
 
 ## O que fazer além dos jogos
 
