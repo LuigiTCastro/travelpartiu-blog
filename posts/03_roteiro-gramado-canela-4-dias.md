@@ -1,5 +1,5 @@
 ---
-titulo: "Roteiro de 4 dias em Gramado e Canela: o que não pode faltar"
+titulo: "Roteiro de 4 dias em Gramado e Canela: o que ver"
 slug: "roteiro-gramado-canela-4-dias"
 descricao: "Guia completo de 4 dias por Gramado e Canela com atrações, hospedagem, gastos e dicas práticas para aproveitar ao máximo."
 categoria: "Roteiros"
@@ -33,9 +33,9 @@ Pela manhã, visite o **Mini Mundo**, uma réplica em miniatura de construções
 Almoce num **café colonial**, a experiência gastronômica mais típica da região. São mesas fartas com pães, geleias, bolos, cucas, queijos, frios e muito mais. Reserve pelo menos 1h30 para aproveitar.
 
 **Quanto custa:**
-- Mini Mundo: R$ 40-60 por pessoa
-- Café colonial: R$ 80-120 por pessoa
-- Pedalinho no Lago Negro: R$ 25-40
+- Mini Mundo: aprox. R$ 64-128 por pessoa (meia/inteira)
+- Café colonial: aprox. R$ 50-150 por pessoa, dependendo do estabelecimento
+- Pedalinho no Lago Negro: aprox. R$ 40-60, dependendo do modelo
 
 ## Dia 3: Canela, Skyglass, Parque do Caracol e Catedral de Pedra
 
@@ -46,15 +46,15 @@ Depois, siga para o **Parque do Caracol**, onde fica a famosa **Cascata do Carac
 No fim da tarde, passe pela **Catedral de Pedra**, a igreja em estilo gótico que é o cartão-postal de Canela. À noite, vale assistir ao espetáculo de luzes na fachada.
 
 **Quanto custa:**
-- Skyglass: R$ 60-90 por pessoa
-- Parque do Caracol: R$ 45-70 por pessoa
+- Skyglass: aprox. R$ 99-180 por pessoa, conforme temporada e antecedência da compra
+- Parque do Caracol: aprox. R$ 47,50-95 por pessoa (meia/inteira)
 - Catedral de Pedra: gratuito
 
 ## Dia 4: Compras e retorno
 
 No último dia, aproveite a manhã para compras. Gramado é famosa por **chocolates**, **malhas** e **couro**. Os melhores preços estão nas fábricas nas saídas da cidade, não nas lojas do centro.
 
-Se tiver tempo, visite a **Fábrica de Chocolate Florybal** (entrada gratuita) ou o **Mundo de Chocolate**, um museu feito inteiramente de chocolate.
+Se tiver tempo, visite a **Fábrica de Chocolate Florybal** (entrada gratuita) ou o **Mundo de Chocolate**, um museu com esculturas de chocolate (aprox. 30 toneladas de peças).
 
 ## Onde ficar
 
@@ -74,12 +74,12 @@ Se tiver tempo, visite a **Fábrica de Chocolate Florybal** (entrada gratuita) o
 | Transfer POA-Gramado (ida e volta) | R$ 80-150 |
 | Hospedagem (4 noites, faixa média) | R$ 1.000-1.600 |
 | Alimentação | R$ 400-700 |
-| Atrações e passeios | R$ 250-400 |
-| **Total estimado** | **R$ 2.230-3.850** |
+| Atrações e passeios | R$ 300-600 |
+| **Total estimado** | **aprox. R$ 2.280-4.050** |
 
 ## Dicas práticas
 
-- **Como chegar:** Voe para Porto Alegre (POA) e pegue transfer ou alugue carro (1h30 de viagem). Carro próprio facilita muito os deslocamentos entre Gramado e Canela.
-- **Melhor época:** Junho e julho (Festival de Cinema mais frio de verdade). Mas qualquer época do ano funciona bem.
+- **Como chegar:** Voe para Porto Alegre (POA) e pegue transfer ou alugue carro (aprox. 2h a 2h30 de viagem). Carro próprio facilita muito os deslocamentos entre Gramado e Canela.
+- **Melhor época:** junho a agosto para frio mais intenso. O Festival de Cinema de Gramado 2026 acontece de 12 a 22 de agosto. Mas qualquer época do ano funciona bem.
 - **Transporte local:** Muita coisa se faz a pé em Gramado. Para Canela, use Uber ou transfer de hotel.
 - **Reservas:** Na alta temporada (junho, julho, dezembro), reserve hospedagem e café colonial com antecedência.

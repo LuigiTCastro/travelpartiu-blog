@@ -1,5 +1,5 @@
 ﻿---
-titulo: "Roteiro Búzios 3 dias: praias, o que fazer e dicas práticas"
+titulo: "Roteiro Búzios 3 dias: praias e o que fazer"
 slug: "roteiro-buzios-3-dias"
 descricao: "Guia completo de 3 dias em Búzios com as melhores praias, passeios, restaurantes e quanto você vai gastar para aproveitar o melhor do destino."
 categoria: "Roteiros"
@@ -18,11 +18,11 @@ A boa notícia é que 3 dias são suficientes para ver o melhor de Búzios, mas 
 
 ## Como chegar em Búzios
 
-**De carro:** São Paulo fica a cerca de 5h30 (430 km pela BR-101 e RJ-106). Rio de Janeiro fica a 2h30 (170 km). A estrada é boa, mas o trecho final até a península pode ter trânsito no fim de semana.
+**De carro:** São Paulo fica a aprox. 590-600 km (cerca de 7h a 8h de carro), via Dutra, Ponte Rio-Niterói, BR-101 e RJ-106. Rio de Janeiro fica a aprox. 2h30 a 3h30 (170 km), dependendo do trânsito. A estrada é boa, mas o trecho final até a península pode ter trânsito no fim de semana.
 
-**De ônibus:** A 1001 e a Auto Viação 1001 fazem o trajeto Rio-Búzios em cerca de 2h30. Saídas frequentes da Rodoviária Novo Rio.
+**De ônibus:** A Auto Viação 1001 (marca "1001") faz o trajeto Rio-Búzios em cerca de 3h a 3h30. Saídas frequentes da Rodoviária Novo Rio.
 
-**De avião:** O aeroporto mais próximo é o Santos Dumont (Rio) ou o Galeão. De lá, alugue um carro ou tome um transfer.
+**De avião:** as opções práticas são Santos Dumont (Rio) ou Galeão. Existe também o Aeroporto de Cabo Frio (CFB), mais perto, mas com pouquíssimos voos regulares. De qualquer um deles, alugue um carro ou tome um transfer.
 
 **Dica:** Se for de carro, encha o tanque antes de entrar em Búzios, os postos na região são mais caros.
 
@@ -34,7 +34,7 @@ Siga pela **Rua das Pedras**, a principal rua comercial da cidade. É onde ficam
 
 À tarde, visite a **Praia da Armação** e a **Praia dos Ossos**, que ficam próximas ao centro. São mais calmas e têm a paisagem típica de Búzios: barcos coloridos, coqueiros e água azul-turquesa.
 
-Para o pôr do sol, vá ao **Mirante do Alto do Humaitá**, a vista panorâmica de toda a península é de cair o queixo.
+Para o pôr do sol, vá ao **Mirante do Pai Vitório**, a vista panorâmica de toda a península é de cair o queixo.
 
 **Onde jantar:** A Rua das Pedras tem opções para todos os bolsos. O Cigalon é clássico e excelente para frutos do mar. Para algo mais descontraído, os bares ao redor da Orla Bardot são ótimos.
 
@@ -44,9 +44,9 @@ O norte de Búzios tem as praias mais bonitas e tranquilas. A **Praia da Ferradu
 
 A tarde na **Praia de João Fernandes** é obrigatória. Considerada uma das mais bonitas do litoral fluminense, tem água cristalina, areia clara e quiosques bem estruturados. O snorkel aqui é fantástico.
 
-**Passeio de escuna:** Para ver as melhores praias de uma vez, faça o clássico **passeio de escuna pelas 3 praias**, João Fernandes, João Fernandinho e Azedinha. Saem da Praia dos Ossos e duram cerca de 2h30. Custa em torno de R$ 80-120 por pessoa.
+**Passeio de escuna:** Para ver as melhores praias de uma vez, faça o clássico **passeio de escuna pelas 3 praias**, geralmente Azeda, Azedinha e João Fernandes (o roteiro exato varia por operador). Saem do píer do centro (Rua das Pedras) ou da Praia da Armação e duram cerca de 3h. Custa em torno de R$ 80-120 por pessoa (valores de set/2026, sujeitos a alteração).
 
-**Quanto custa o dia 2:**
+**Quanto custa o dia 2 (valores aproximados, consulte no local):**
 - Passeio de escuna: R$ 80-120
 - Almoço em João Fernandes: R$ 60-100 por pessoa
 - Equipamento de snorkel (aluguel): R$ 30-50
@@ -56,13 +56,15 @@ A tarde na **Praia de João Fernandes** é obrigatória. Considerada uma das mai
 
 As praias do sul de Búzios têm um perfil diferente: são mais abertas, com ondas mais fortes, ideais para quem gosta de surf ou simplesmente de paisagem selvagem.
 
-A **Praia Brava** é a mais agitada do sul, com ondas boas e uma energia vibrante. A **Praia da Tucuns** e a **Praia de Manguinhos** são alternativas mais tranquilas, com vista para o continente.
+A **Praia Brava** é a mais agitada do sul, com ondas boas e uma energia vibrante. A **Praia de Tucuns** tem ondas fortes e é ótima para surf e kitesurf; já a **Praia de Manguinhos** é mais tranquila, com águas calmas e rasas, ideal para famílias.
 
 Reserve o final da tarde para um gelato na Rua das Pedras e uma última caminhada pela Orla Bardot antes de ir embora.
 
-**Dica:** Se você pretende explorar as praias do sul de forma independente, alugue um buggy (R$ 150-250/dia), é muito mais prático do que depender de carro de app, que pode demorar em certos horários.
+**Dica:** Se você pretende explorar as praias do sul de forma independente, alugue um buggy (aprox. R$ 200-350/dia, varia por operadora e temporada), é muito mais prático do que depender de carro de app, que pode demorar em certos horários.
 
 ## Custos estimados para 3 dias em Búzios
+
+*Valores de set/2026, variam muito por temporada. Confira preços atualizados antes de reservar.*
 
 | Item | Estimativa por pessoa |
 |------|----------------------|

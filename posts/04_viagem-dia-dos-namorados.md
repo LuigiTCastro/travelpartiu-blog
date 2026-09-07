@@ -22,13 +22,13 @@ Trancoso é um dos destinos mais românticos do Brasil. O Quadrado, centro hist�
 
 As praias de Trancoso são selvagens e praticamente desertas, perfeitas para quem quer privacidade. O trecho entre a Praia dos Nativos e a Praia do Espelho é especialmente bonito.
 
-**Dica:** Fique pelo menos 4 noites para curtir sem pressa. O aeroporto mais próximo é Porto Seguro (1h30 de transfer).
+**Dica:** Fique pelo menos 4 noites para curtir sem pressa. O aeroporto mais próximo é Porto Seguro (aprox. 1h30 a 2h de transfer, dependendo da rota).
 
 **Perfil:** Casal que curte sofisticação discreta, gastronomia boa e praia com pouca gente.
 
 ## 2. Gramado, RS: clima europeu para esquentar o casal
 
-Gramado em junho e julho tem aquele frio que convida para ficar aconchegante. Chalés com lareira, fondue a dois, chocolate quente e passeios entre hortênsias. É o tipo de viagem que a maioria das pessoas imagina quando pensa em "viagem romântica".
+Gramado em junho e julho tem aquele frio que convida para ficar aconchegante. Chalés com lareira, fondue a dois e chocolate quente. É o tipo de viagem que a maioria das pessoas imagina quando pensa em "viagem romântica". Se preferir ver a cidade florida de hortênsias, o pico é entre dezembro e janeiro, não no inverno.
 
 O clima europeu da cidade, com arquitetura alemã e caminhos arborizados, cria um cenário naturalmente bonito em qualquer época do ano. No inverno, essa magia se intensifica.
 
@@ -40,9 +40,9 @@ O clima europeu da cidade, com arquitetura alemã e caminhos arborizados, cria u
 
 Não tem destino mais impressionante no Brasil do que Fernando de Noronha. As praias são de outro nível: água quente e cristalina, peixes coloridos em quantidade, golfinhos pela manhã e tartarugas com um pouco de sorte.
 
-É um destino caro, isso é fato. A Taxa de Preservação Ambiental (TPA) sozinha custa algumas centenas de reais por pessoa. Mas quem vai costuma dizer que valeu cada centavo.
+É um destino caro, isso é fato. A Taxa de Preservação Ambiental (TPA) custa aprox. R$ 100/dia por pessoa (valor de 2026), e há ainda o ingresso do Parque Nacional Marinho (aprox. R$ 190, válido por 10 dias) para acessar praias como Sancho e Baía dos Porcos. Mas quem vai costuma dizer que valeu cada centavo.
 
-**Dica:** Reserve com no mínimo 3 meses de antecedência. Os melhores hotéis e pousadas esgotam rápido, especialmente em junho.
+**Dica:** Reserve com no mínimo 3 meses de antecedência, principalmente se a viagem cair perto de datas comemorativas (Dia dos Namorados, Réveillon, feriados prolongados). Os melhores hotéis e pousadas esgotam rápido nesses períodos.
 
 **Perfil:** Casal que prioriza a experiência acima do custo e quer algo verdadeiramente diferente.
 
@@ -72,7 +72,7 @@ Para quem mora em São Paulo ou no interior paulista, Campos do Jordão é a op�
 
 O Horto Florestal, com suas araucárias gigantes, é perfeito para uma caminhada a dois. À noite, o centro da cidade oferece boas opções de fondue, vinho e music ao vivo.
 
-**Dica:** Evite o feriado em si se possível. Vá na semana do Dia dos Namorados para encontrar menos gente e preços melhores.
+**Dica:** Evite fins de semana de feriado e datas comemorativas se possível. Fora dessas janelas, Campos do Jordão costuma ter menos gente e preços melhores.
 
 **Perfil:** Casal que quer praticidade, clima de montanha e não quer gastar muito com deslocamento.
 
@@ -80,7 +80,7 @@ O Horto Florestal, com suas araucárias gigantes, é perfeito para uma caminhada
 
 Para casais que curtem aventura tanto quanto romance, a Chapada Diamantina é uma opção incrível. Lençóis é a cidade base da região, com trilhas para cachoeiras, grutas com cristais, rios de águas claras e paisagens que parecem pintadas.
 
-O Poço Encantado e o Poço Azul são dois dos lugares mais fotogênicos do Brasil, com aquela luz que entra pela abertura da gruta e ilumina a água de um azul elétrico. Difícil não se apaixonar.
+O Poço Encantado e o Poço Azul são dois dos lugares mais fotogênicos do Brasil. O efeito de luz que ilumina a água de um azul elétrico só acontece entre abril e setembro, geralmente entre 10h e 13h30, mas fora dessa janela a visita ainda vale a pena. Difícil não se apaixonar.
 
 **Dica:** Contrate um guia local. Além de ser obrigatório em alguns pontos, os guias conhecem trilhas alternativas muito mais bonitas do que as convencionais.
 

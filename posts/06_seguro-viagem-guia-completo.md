@@ -45,30 +45,32 @@ As coberturas variam bastante de plano para plano, mas as principais são:
 
 O preço depende do destino, da duração da viagem e do valor de cobertura. Veja uma estimativa:
 
-| Destino | Duração | Cobertura DMH | Preço médio/pessoa |
-|---------|---------|---------------|-------------------|
-| América do Sul | 7 dias | USD 30.000 | R$ 80-150 |
-| Europa | 15 dias | EUR 30.000 | R$ 200-400 |
-| EUA / Canadá | 10 dias | USD 100.000 | R$ 350-600 |
-| Cruzeiro | 7 dias | USD 50.000 | R$ 150-300 |
+Valores de referência (cotação de set/2026); o preço final depende de idade, cobertura e data da viagem, compare no cotador:
 
-**Dica:** Sempre compare o valor de cobertura, não só o preço. Um plano barato com cobertura de USD 15.000 pode não ser suficiente em países com sistema de saúde caro, como os EUA. Para comparar planos e cotar em menos de 2 minutos, use o [Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog) — maior comparador de seguros viagem do Brasil.
+| Destino | Duração | Cobertura DMH | Preço aprox./pessoa |
+|---------|---------|---------------|-------------------|
+| América do Sul | 7 dias | USD 30.000 | aprox. R$ 80-150 |
+| Europa | 15 dias | EUR 30.000 | aprox. R$ 200-400 |
+| EUA / Canadá | 10 dias | USD 100.000 | aprox. R$ 350-600 |
+| Cruzeiro | 7 dias | USD 50.000 | aprox. R$ 150-300 |
+
+**Dica:** Sempre compare o valor de cobertura, não só o preço. Um plano barato com cobertura de USD 15.000 pode não ser suficiente em países com sistema de saúde caro, como os EUA. Para comparar planos e cotar em menos de 2 minutos, use o [Seguros Promo](https://www.segurospromo.com.br/?utm_medium=afiliado&pcrid=14642&utm_source=site-blog), um dos maiores comparadores de seguros viagem do Brasil.
 
 ## Quando o seguro viagem é obrigatório
 
-Para alguns destinos, o seguro viagem deixa de ser opção e vira requisito de entrada:
+Para alguns destinos, o seguro viagem deixa de ser opção e vira requisito de entrada, mas atenção: a regra costuma valer só para quem precisa solicitar visto, não para o turista brasileiro isento.
 
-- **Europa (Espaço Schengen):** obrigatório com cobertura mínima de EUR 30.000 para pedido de visto.
-- **Cuba:** exigido na entrada, independente de visto.
+- **Europa (Espaço Schengen):** para quem pede visto Schengen, o seguro com cobertura mínima de EUR 30.000 é documento obrigatório do processo (Regulamento UE 810/2009, Art. 15). O turista brasileiro é isento de visto para estadias de até 90 dias em cada 180, então essa exigência legal não se aplica a ele. Mesmo assim, o seguro é fortemente recomendado: pode ser solicitado no controle de fronteira, e o custo de saúde na Europa justifica a contratação por si só.
+- **Cuba:** exige visto (e-Visa) e seguro viagem com cobertura médica, os dois cumulativamente. O seguro não substitui o visto nem é alternativa a ele.
 - **Alguns países da Ásia:** depende do acordo bilateral. Verifique antes de viajar.
 
-Para viagens ao **Brasil com menores de 18 anos desacompanhados** e cruzeiros, também há regras específicas.
+Cruzeiros também têm regra própria, mas ela varia por companhia: a MSC, por exemplo, exige comprovação de seguro; outras recomendam sem tornar obrigatório. Confirme direto com o armador antes de embarcar.
 
 ## Quando vale a pena mesmo sem obrigatoriedade
 
 A resposta curta: sempre. Mas em alguns casos é ainda mais importante:
 
-- **Viagens aos EUA, Canadá e Austrália:** sistema de saúde privado e caríssimo. Uma internação de 3 dias pode custar USD 30.000 ou mais.
+- **Viagens aos EUA, Canadá e Austrália:** sistema de saúde privado e caríssimo. Uma internação em UTI nos EUA pode custar entre USD 4.000 e 9.000 por dia (fora cirurgia), segundo dados hospitalares dos EUA. Em poucos dias o valor passa de USD 30.000.
 - **Viagens de aventura:** trilhas, escalada, mergulho, esportes radicais, verifique se o plano cobre atividades de risco.
 - **Idosos ou pessoas com condições de saúde preexistentes:** busque planos com cobertura de doenças preexistentes (geralmente custa mais).
 - **Viagens longas:** quanto mais tempo fora, maior a probabilidade de algo acontecer.
@@ -79,7 +81,7 @@ A resposta curta: sempre. Mas em alguns casos é ainda mais importante:
 ### 1. Defina o valor mínimo de cobertura médica
 
 - América Latina: USD 30.000
-- Europa: EUR 30.000
+- Europa: EUR 30.000 (esse é o mínimo do Código de Vistos Schengen para quem solicita visto; o turista brasileiro isento não é legalmente obrigado a esse valor, mas é o padrão de mercado recomendado por segurança)
 - EUA/Canadá: USD 100.000 ou mais
 - Cruzeiros: USD 50.000
 
@@ -119,7 +121,7 @@ Se for usar o seguro do cartão, leia as condições com cuidado antes de depend
 
 ## Vale ou não vale?
 
-Quando você compara o custo do seguro (R$ 80-600 dependendo do destino) com o risco de uma emergência médica sem cobertura (que pode ultrapassar R$ 50.000), a resposta é simples: **sempre vale**.
+Quando você compara o custo do seguro (aprox. R$ 80-600 dependendo do destino) com o risco de uma emergência médica sem cobertura (que pode ultrapassar dezenas de milhares de reais, dependendo do país e da gravidade), a resposta é simples: **sempre vale**.
 
 O seguro viagem não é gasto, é parte do custo da viagem, como a passagem e o hotel.
 

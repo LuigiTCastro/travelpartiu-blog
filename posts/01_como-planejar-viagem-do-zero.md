@@ -24,7 +24,7 @@ Antes de tudo, pra onde ir? Se você não tem um destino definido, considere:
 - **Tipo de viagem:** praia, montanha, cidade ou aventura?
 - **Tempo disponível:** um fim de semana pede destinos próximos
 
-**Dica:** Use o Google Flights para comparar preços de voos para diferentes destinos na mesma data. Às vezes, mudar o destino em 200 km reduz o preço pela metade.
+**Dica:** Use o Google Flights para comparar preços de voos para diferentes destinos na mesma data. Em alguns casos, um destino 200 km mais distante pode custar bem menos, vale comparar.
 
 ## Passo 2: Defina o orçamento
 
@@ -36,13 +36,13 @@ Sem orçamento definido, é fácil gastar mais do que deveria. Separe seu orçam
 - Passeios e atrações
 - Extras (compras, emergências)
 
-**Regra prática:** Para destinos nacionais, calcule entre R$ 200 e R$ 500 por pessoa por dia (fora transporte e hospedagem). Para internacionais, dobre esse valor.
+**Estimativa de referência** (pode variar bastante conforme o destino): entre R$ 200 e R$ 500 por pessoa por dia fora transporte e hospedagem, em viagens nacionais. Para internacionais, o valor costuma dobrar ou mais.
 
 ## Passo 3: Pesquise e compre voos
 
 O voo costuma ser o item mais caro da viagem, então vale pesquisar com calma.
 
-- **Quando comprar:** 2 a 3 meses antes para voos nacionais, 3 a 6 meses para internacionais
+- **Quando comprar:** como referência (as janelas variam entre estudos do setor), aprox. 4 a 8 semanas antes para voos nacionais e 2 a 4 meses para internacionais. Em datas de alta demanda (feriados, alta temporada), antecipe para até 6 meses
 - **Ferramentas:** Google Flights, Skyscanner, MaxMilhas
 - **Dica:** Ative alertas de preço e seja flexível com as datas. Voar terça ou quarta costuma ser mais barato.
 
@@ -81,7 +81,7 @@ Tenha em mãos:
 - Documentos pessoais (RG, passaporte, visto)
 - Comprovantes de reserva (tours, restaurantes)
 
-No [TravelPartiu](https://www.travelpartiu.com), você adiciona todos os documentos da viagem num único painel, acessível offline pelo celular.
+No [TravelPartiu](https://www.travelpartiu.com), você adiciona todos os documentos da viagem num único painel, acessível pelo celular direto do navegador.
 
 ## Passo 7: Prepare o checklist final
 
